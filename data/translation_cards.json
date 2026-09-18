@@ -1,0 +1,3172 @@
+[
+  {
+    "id": 1,
+    "topic": "1. Lên kế hoạch chuyến đi",
+    "vietnameseSentence": "Tôi thường lên kế hoạch cho chuyến đi của mình trước để tránh những vấn đề không đáng có.",
+    "sampleAnswer": "I usually plan my trip in advance to avoid unexpected/unnecessary problems.",
+    "formula": "S + plan + N + in advance to + V",
+    "hint": "Lên kế hoạch làm gì trước",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 2,
+    "topic": "2. Lịch trình du lịch",
+    "vietnameseSentence": "Chúng tôi đã lập một lịch trình chi tiết cho chuyến du lịch kéo dài một tuần.",
+    "sampleAnswer": "We drew up a detailed/comprehensive/thorough itinerary for our week-long trip.",
+    "formula": "S + draw up + N",
+    "hint": "Lập / xây dựng...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 3,
+    "topic": "3. Đặt vé máy bay",
+    "vietnameseSentence": "Du khách nên đặt vé máy bay trước khá lâu nếu muốn có mức giá tốt hơn.",
+    "sampleAnswer": "Tourists/Travellers should book air tickets well in advance if they want to have better prices.",
+    "formula": "S + book + N + well in advance",
+    "hint": "Đặt... trước khá lâu",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 4,
+    "topic": "4. Chi phí chuyến đi",
+    "vietnameseSentence": "Chúng tôi cố gắng giữ tổng chi phí của chuyến đi trong phạm vi ngân sách đã đề ra.",
+    "sampleAnswer": "We tried to keep the total cost of our trip within budget we have set.",
+    "formula": "S + keep + N + within + budget",
+    "hint": "Giữ... trong phạm vi ngân sách",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 5,
+    "topic": "5. Đi nghỉ dưỡng",
+    "vietnameseSentence": "Tôi thực sự mong chờ được nghỉ dưỡng trên một hòn đảo yên tĩnh vào mùa hè này.",
+    "sampleAnswer": "I am looking forward to relaxing/unwinding on a quiet island this summer.",
+    "formula": "S + look forward to + V-ing",
+    "hint": "Mong chờ làm gì",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 6,
+    "topic": "6. Chuẩn bị hành lý",
+    "vietnameseSentence": "Tôi luôn kiểm tra thời tiết trước khi chuẩn bị hành lý cho một chuyến đi dài.",
+    "sampleAnswer": "I always check the weather forecast before packing my luggage for a long trip.",
+    "formula": "S + pack + N + for + N",
+    "hint": "Đóng gói / chuẩn bị... cho...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 7,
+    "topic": "7. Hộ chiếu",
+    "vietnameseSentence": "Hành khách nên đảm bảo rằng hộ chiếu của họ vẫn còn hiệu lực trước khi đi nước ngoài.",
+    "sampleAnswer": "Passengers should make sure that their passports remain valid before travelling abroad.",
+    "formula": "S + make sure + that + S + V",
+    "hint": "Đảm bảo rằng...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 8,
+    "topic": "8. Thủ tục nhập cảnh",
+    "vietnameseSentence": "Một số du khách được yêu cầu cung cấp thêm giấy tờ khi làm thủ tục nhập cảnh.",
+    "sampleAnswer": "Some tourists/travellers are required to provide additional documents during immigration process.",
+    "formula": "S + be required to + V",
+    "hint": "Được yêu cầu phải làm gì",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 9,
+    "topic": "9. Kiểm tra an ninh",
+    "vietnameseSentence": "Tất cả hành khách phải trải qua quy trình kiểm tra an ninh trước khi lên máy bay.",
+    "sampleAnswer": "All passengers must undergo security check/screening before boarding the plane.",
+    "formula": "S + undergo + N",
+    "hint": "Trải qua / thực hiện...",
+    "sourceFile": "Translation 73",
+    "needsReview": true
+  },
+  {
+    "id": 10,
+    "topic": "10. Hành lý ký gửi",
+    "vietnameseSentence": "Tôi thường ký gửi hành lý ngay sau khi đến sân bay để có thời gian nghỉ ngơi.",
+    "sampleAnswer": "I usually check in my luggage as soon as I arrive at the airport so that I have time to relax.",
+    "formula": "S + check in + N",
+    "hint": "Làm thủ tục ký gửi...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 11,
+    "topic": "11. Hành lý xách tay",
+    "vietnameseSentence": "Hành lý xách tay thường bị giới hạn về kích thước và trọng lượng.",
+    "sampleAnswer": "Hand luggage is often limited to size and weight.",
+    "formula": "S + be limited to + N",
+    "hint": "Bị giới hạn ở...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 12,
+    "topic": "12. Thời tiết xấu",
+    "vietnameseSentence": "Thời tiết xấu có thể dẫn đến việc hủy hoặc trì hoãn nhiều chuyến bay.",
+    "sampleAnswer": "Bad weather can result in (lead to / cause) the cancellation or delay of many flights.",
+    "formula": "S + result in + N",
+    "hint": "Dẫn đến / gây ra...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 13,
+    "topic": "13. Chuyến bay bị hủy",
+    "vietnameseSentence": "Chuyến bay đã bị hủy do điều kiện thời tiết nguy hiểm.",
+    "sampleAnswer": "The flight was cancelled as a result of harsh/extreme/severe/dangerous weather conditions.",
+    "formula": "S + be cancelled as a result of + N",
+    "hint": "Bị hủy do kết quả của...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 14,
+    "topic": "14. Đổi chuyến bay",
+    "vietnameseSentence": "Hãng hàng không đã sắp xếp một chuyến bay khác cho những hành khách bị ảnh hưởng.",
+    "sampleAnswer": "The airline arranged another flight for affected passengers.",
+    "formula": "S + arrange + N + for + N",
+    "hint": "Sắp xếp... cho...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 15,
+    "topic": "15. Đặt phòng khách sạn",
+    "vietnameseSentence": "Tôi đã đặt phòng tại một khách sạn gần trung tâm thành phố.",
+    "sampleAnswer": "I made a reservation at a hotel near the city center.",
+    "formula": "S + make + a reservation + at + N",
+    "hint": "Đặt phòng tại...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 16,
+    "topic": "16. Phòng khách sạn",
+    "vietnameseSentence": "Một số phòng khách sạn vẫn còn trống cho khách nhận phòng vào cuối tuần này.",
+    "sampleAnswer": "Some rooms are still available for guests checking in this weekend.",
+    "formula": "S + be available for + N",
+    "hint": "Có sẵn cho...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 17,
+    "topic": "17. Nhận phòng",
+    "vietnameseSentence": "Chúng tôi dự kiến sẽ nhận phòng vào lúc hai giờ chiều.",
+    "sampleAnswer": "We are scheduled to check in at 2 p.m.",
+    "formula": "S + be scheduled to + V",
+    "hint": "Được dự kiến sẽ...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 18,
+    "topic": "18. Trả phòng",
+    "vietnameseSentence": "Khách phải trả phòng trước mười hai giờ trưa vào ngày cuối cùng.",
+    "sampleAnswer": "Guests have to check out of the hotel before noon on the last day.",
+    "formula": "S + check out of + N",
+    "hint": "Trả phòng / rời khỏi...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 19,
+    "topic": "19. Dịch vụ khách sạn",
+    "vietnameseSentence": "Khách lưu trú được cung cấp bữa sáng miễn phí và dịch vụ dọn phòng hàng ngày.",
+    "sampleAnswer": "Guests are provided with free breakfast and daily housekeeping services.",
+    "formula": "S + be provided with + N",
+    "hint": "Được cung cấp...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 20,
+    "topic": "20. Dọn phòng",
+    "vietnameseSentence": "Bạn có thể yêu cầu thêm khăn tắm từ nhân viên khách sạn nếu cần.",
+    "sampleAnswer": "You can request extra/additional towels from hotel staff if necessary.",
+    "formula": "S + request + N + from + N",
+    "hint": "Yêu cầu... từ...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 21,
+    "topic": "21. Tiện nghi khách sạn",
+    "vietnameseSentence": "Khách của khách sạn có quyền sử dụng miễn phí hồ bơi và phòng tập thể dục.",
+    "sampleAnswer": "Hotel guests have free access to the swimming pool and gym.",
+    "formula": "S + have access to + N",
+    "hint": "Có quyền / khả năng sử dụng...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 22,
+    "topic": "22. Hồ bơi khách sạn",
+    "vietnameseSentence": "Hồ bơi của khách sạn mở cửa cho khách từ sáu giờ sáng đến mười giờ tối.",
+    "sampleAnswer": "The hotel swimming pool is open to guests from 6 a.m. to 10 p.m.",
+    "formula": "S + be open to + N",
+    "hint": "Mở cửa cho...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 23,
+    "topic": "23. Bữa sáng",
+    "vietnameseSentence": "Bữa sáng đã được bao gồm trong giá phòng của chúng tôi.",
+    "sampleAnswer": "Breakfast is included in the price of our room",
+    "formula": "S + be included in + N",
+    "hint": "Được bao gồm trong...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 24,
+    "topic": "24. Phí dịch vụ",
+    "vietnameseSentence": "Một số dịch vụ bổ sung của khách sạn phải chịu thêm phí.",
+    "sampleAnswer": "Some additional services of the hotel are subject to extra costs/charges/fees.",
+    "formula": "S + be subject to + N",
+    "hint": "Chịu / phải trả...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 25,
+    "topic": "25. Giá phòng",
+    "vietnameseSentence": "Giá phòng có thể thay đổi tùy thuộc vào mùa du lịch và loại phòng.",
+    "sampleAnswer": "The room rates/prices can vary depending on the travel season and types of accommodation.",
+    "formula": "S + vary depending on + N",
+    "hint": "Thay đổi tùy thuộc vào...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 26,
+    "topic": "26. Khách sạn cao cấp",
+    "vietnameseSentence": "Khách sạn này nổi tiếng với dịch vụ chuyên nghiệp và vị trí thuận tiện.",
+    "sampleAnswer": "This hotel is known for its professional services and convenient location.",
+    "formula": "S + be known for + N",
+    "hint": "Nổi tiếng với...",
+    "sourceFile": "Translation 73",
+    "needsReview": true
+  },
+  {
+    "id": 27,
+    "topic": "27. Vị trí khách sạn",
+    "vietnameseSentence": "Khách sạn nằm ở vị trí thuận tiện gần các điểm tham quan nổi tiếng.",
+    "sampleAnswer": "This hotel is conveniently located near famous/popular tourist attractions.",
+    "formula": "S + be conveniently located + near + N",
+    "hint": "Có vị trí thuận tiện gần...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 28,
+    "topic": "28. Điểm tham quan",
+    "vietnameseSentence": "Khách sạn nằm trong khoảng cách đi bộ đến nhiều nhà hàng và điểm tham quan.",
+    "sampleAnswer": "The hotel is within walking distance of many restaurants and tourist attractions.",
+    "formula": "S + be within walking distance of + N",
+    "hint": "Nằm trong khoảng cách có thể đi bộ đến...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 29,
+    "topic": "29. Trung tâm thành phố",
+    "vietnameseSentence": "Khách sạn nằm ở một khu vực yên tĩnh ngay bên ngoài trung tâm thành phố.",
+    "sampleAnswer": "This hotel is situated in a quiet place outside the city center (on the outskirts of the city center)",
+    "formula": "S + be situated in + N",
+    "hint": "Nằm / tọa lạc tại...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 30,
+    "topic": "30. Du lịch biển",
+    "vietnameseSentence": "Khu nghỉ dưỡng này rất lý tưởng cho những gia đình muốn tận hưởng một kỳ nghỉ bên bờ biển.",
+    "sampleAnswer": "This resort is ideal for families who want to enjoy a beach vacation.",
+    "formula": "S + be ideal for + N",
+    "hint": "Lý tưởng cho...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 31,
+    "topic": "31. Nghỉ dưỡng giữa thiên nhiên",
+    "vietnameseSentence": "Khu nghỉ dưỡng mang đến cho du khách cơ hội thư giãn giữa thiên nhiên.",
+    "sampleAnswer": "This resort offers tourists opportunities to relax/unwind/blow off some steam in nature.",
+    "formula": "S + offer + N + to + N",
+    "hint": "Cung cấp / mang đến... cho...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 32,
+    "topic": "32. Du lịch khám phá",
+    "vietnameseSentence": "Những chuyến du lịch mạo hiểm đặc biệt hấp dẫn những du khách trẻ.",
+    "sampleAnswer": "Adventure trips usually appeal to young travellers.",
+    "formula": "S + appeal to + N",
+    "hint": "Thu hút / hấp dẫn...",
+    "sourceFile": "Translation 73",
+    "needsReview": false
+  },
+  {
+    "id": 33,
+    "topic": "1. Quản lý ngân sách cá nhân",
+    "vietnameseSentence": "Tôi luôn phân bổ một phần thu nhập cho các khoản tiết kiệm dài hạn.",
+    "sampleAnswer": "I always allocate part of my income (a portion of my income) to long-term savings",
+    "formula": "S + allocate + N + to + N",
+    "hint": "Phân bổ... cho...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 34,
+    "topic": "2. Gửi tiền tiết kiệm",
+    "vietnameseSentence": "Nhiều người cố gắng để dành một phần tiền lương cho những trường hợp khẩn cấp.",
+    "sampleAnswer": "Many people try to put aside part of their salary for emergencies.",
+    "formula": "S + put aside + N + for + N",
+    "hint": "Để dành... cho...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 35,
+    "topic": "3. Chi tiêu quá mức",
+    "vietnameseSentence": "Người trẻ có xu hướng chi tiêu nhiều hơn khi thu nhập của họ tăng lên.",
+    "sampleAnswer": "Young people tend to spend more when their income increases.",
+    "formula": "S + tend to + V",
+    "hint": "Có xu hướng làm gì",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 36,
+    "topic": "4. Theo dõi chi tiêu",
+    "vietnameseSentence": "Bằng cách theo dõi chi tiêu hàng tháng, mọi người có thể kiểm soát tài chính tốt hơn.",
+    "sampleAnswer": "By keeping track of monthly expenses, people can control their finances better.",
+    "formula": "By + V-ing, S + can + V",
+    "hint": "Bằng cách làm gì, có thể...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 37,
+    "topic": "5. Thu nhập ổn định",
+    "vietnameseSentence": "Nhiều gia đình phụ thuộc vào một nguồn thu nhập duy nhất để trang trải cuộc sống.",
+    "sampleAnswer": "Many families rely on a single source of income to make ends meet.",
+    "formula": "S + rely on + N + for + N",
+    "hint": "Phụ thuộc vào... để có...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 38,
+    "topic": "6. Lãi suất ngân hàng",
+    "vietnameseSentence": "Lãi suất tiền gửi có thể bị ảnh hưởng bởi chính sách tiền tệ của ngân hàng trung ương.",
+    "sampleAnswer": "Deposit interest rates can be influenced by the monetary policy of the central bank.",
+    "formula": "S + be influenced by + N",
+    "hint": "Bị ảnh hưởng bởi...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 39,
+    "topic": "7. Tăng lãi suất",
+    "vietnameseSentence": "Ngân hàng trung ương có thể tăng lãi suất nhằm kiểm soát lạm phát.",
+    "sampleAnswer": "The central bank can raise the interest rates in an attempt to control inflation.",
+    "formula": "S + raise + N + in an attempt to + V",
+    "hint": "Tăng... nhằm cố gắng...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 40,
+    "topic": "8. Giảm lãi suất",
+    "vietnameseSentence": "Chính phủ có thể cắt giảm lãi suất để khuyến khích doanh nghiệp đầu tư nhiều hơn.",
+    "sampleAnswer": "The government can cut/reduce/lower interest rates in order to encourage businesses/enterprises to invest more.",
+    "formula": "S + cut + N + in order to + V",
+    "hint": "Cắt giảm... để...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 41,
+    "topic": "9. Vay mua nhà",
+    "vietnameseSentence": "Nhiều người vay ngân hàng để mua nhà đầu tiên của họ.",
+    "sampleAnswer": "Many people take out a bank loan to purchase/buy their first house.",
+    "formula": "S + take out + N + to + V",
+    "hint": "Vay / rút... để làm gì",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 42,
+    "topic": "10. Khoản vay cá nhân",
+    "vietnameseSentence": "Khách hàng có thu nhập ổn định có thể đủ điều kiện vay một khoản tiền lớn hơn.",
+    "sampleAnswer": "Customers with stable incomes can be eligible for larger loans.",
+    "formula": "S + be eligible for + N",
+    "hint": "Đủ điều kiện để được...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 43,
+    "topic": "11. Khả năng trả nợ",
+    "vietnameseSentence": "Một số hộ gia đình gặp khó khăn trong việc trả nợ khi chi phí sinh hoạt tăng cao.",
+    "sampleAnswer": "Some families struggle to repay their debts when the cost of living rises sharply.",
+    "formula": "S + struggle to + V",
+    "hint": "Gặp khó khăn trong việc...",
+    "sourceFile": "Translation 74",
+    "needsReview": true
+  },
+  {
+    "id": 44,
+    "topic": "12. Điều kiện vay",
+    "vietnameseSentence": "Các khoản vay lớn thường phải tuân theo những điều kiện nghiêm ngặt hơn.",
+    "sampleAnswer": "Large loans are often subject to stricter conditions",
+    "formula": "S + be subject to + N",
+    "hint": "Chịu / phụ thuộc vào...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 45,
+    "topic": "13. Ngân hàng số",
+    "vietnameseSentence": "Ngân hàng số cho phép khách hàng thực hiện các giao dịch mà không cần đến chi nhánh.",
+    "sampleAnswer": "Digital banks enable clients to carry out / conduct transactions without having to visit a physical branch",
+    "formula": "S + enable + O + to + V",
+    "hint": "Cho phép ai làm gì",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 46,
+    "topic": "14. Bảo mật ngân hàng",
+    "vietnameseSentence": "Các ngân hàng cần thực hiện nhiều biện pháp để bảo vệ thông tin cá nhân của khách hàng.",
+    "sampleAnswer": "Banks need to take measures to protect clients’ personal information.",
+    "formula": "S + take measures to + V",
+    "hint": "Thực hiện các biện pháp để...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 47,
+    "topic": "15. Thanh toán không dùng tiền mặt",
+    "vietnameseSentence": "Thanh toán không dùng tiền mặt đang ngày càng trở nên phổ biến trong xã hội hiện đại.",
+    "sampleAnswer": "Cashless payments are becoming increasingly popular/common in modern society.",
+    "formula": "S + become increasingly + adj",
+    "hint": "Ngày càng trở nên...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 48,
+    "topic": "16. Thanh toán điện tử",
+    "vietnameseSentence": "Công nghệ tài chính khiến việc thanh toán quốc tế trở nên dễ dàng hơn đối với người tiêu dùng.",
+    "sampleAnswer": "Financial technology makes it possible for clients to make international payments more easily.",
+    "formula": "S + make it possible for + O + to + V",
+    "hint": "Khiến việc gì trở nên khả thi đối với ai",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 49,
+    "topic": "17. Đầu tư dài hạn",
+    "vietnameseSentence": "Thay vì chạy theo lợi nhuận ngắn hạn, nhiều nhà đầu tư tập trung vào tăng trưởng dài hạn.",
+    "sampleAnswer": "Rather than chasing short-term profits/gains, many investors focus on long-term growth.",
+    "formula": "Rather than + V-ing, S + V",
+    "hint": "Thay vì làm gì, ai đó...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 50,
+    "topic": "18. Danh mục đầu tư",
+    "vietnameseSentence": "Nhà đầu tư nên đa dạng hóa danh mục để giảm rủi ro tài chính.",
+    "sampleAnswer": "Many investors should diversify their portfolios to reduce/mitigate finanical risks.",
+    "formula": "S + diversify + N + to reduce + N",
+    "hint": "Đa dạng hóa... để giảm...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 51,
+    "topic": "19. Rủi ro đầu tư",
+    "vietnameseSentence": "Càng kỳ vọng lợi nhuận cao, nhà đầu tư càng phải chấp nhận nhiều rủi ro.",
+    "sampleAnswer": "High risk – high return",
+    "formula": "The higher + S + V, the greater + N",
+    "hint": "Càng... thì càng...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 52,
+    "topic": "20. Thị trường chứng khoán",
+    "vietnameseSentence": "Thị trường chứng khoán thường bị tác động bởi những thay đổi trong nền kinh tế.",
+    "sampleAnswer": "The stock market is often affected by changes in the economy.",
+    "formula": "S + be affected by + N",
+    "hint": "Bị tác động bởi...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 53,
+    "topic": "21. Hoạt động kinh doanh",
+    "vietnameseSentence": "Hoạt động kinh doanh của nhiều công ty được thúc đẩy bởi nhu cầu ngày càng tăng của người tiêu dùng.",
+    "sampleAnswer": "Business activities of many companies are driven by a growing consumer demand.",
+    "formula": "S + be driven by + N",
+    "hint": "Được thúc đẩy bởi...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 54,
+    "topic": "22. Tăng trưởng kinh tế",
+    "vietnameseSentence": "Đầu tư vào cơ sở hạ tầng có thể đóng góp đáng kể vào tăng trưởng kinh tế.",
+    "sampleAnswer": "Investing in infrastructure can significantly contribute to economic growth.",
+    "formula": "S + contribute to + N/V-ing",
+    "hint": "Đóng góp vào...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 55,
+    "topic": "23. Cơ sở hạ tầng",
+    "vietnameseSentence": "Cơ sở hạ tầng hiện đại đóng vai trò quan trọng trong việc thúc đẩy phát triển kinh tế.",
+    "sampleAnswer": "Modern infrastructure plays a crucial role in promoting/driving economic growth.",
+    "formula": "S + play a crucial role in + N/V-ing",
+    "hint": "Đóng vai trò quan trọng trong...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 56,
+    "topic": "24. Năng suất lao động",
+    "vietnameseSentence": "Năng suất lao động được kỳ vọng sẽ tăng khi doanh nghiệp áp dụng công nghệ mới.",
+    "sampleAnswer": "Labour productivity is expected to increase when enterprises adopt new technologies.",
+    "formula": "S + be expected to + V",
+    "hint": "Được kỳ vọng sẽ...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 57,
+    "topic": "25. Tự động hóa",
+    "vietnameseSentence": "Một số doanh nghiệp đang thay thế lao động thủ công bằng các hệ thống tự động.",
+    "sampleAnswer": "Some enterprises are replacing manual workers with automated system.",
+    "formula": "S + replace + N + with + N",
+    "hint": "Thay thế... bằng...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 58,
+    "topic": "26. Việc làm",
+    "vietnameseSentence": "Các doanh nghiệp nhỏ có thể cung cấp cho người lao động nhiều cơ hội việc làm hơn.",
+    "sampleAnswer": "Small enterprises can provide workers with more job/employment opportunities.",
+    "formula": "S + provide + O + with + N",
+    "hint": "Cung cấp cho ai...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 59,
+    "topic": "27. Thất nghiệp",
+    "vietnameseSentence": "Suy thoái kinh tế có thể dẫn đến tỷ lệ thất nghiệp cao hơn.",
+    "sampleAnswer": "Economic recession can result in (lead to / cause / breed) higher unemployment rate.",
+    "formula": "S + result in + N",
+    "hint": "Dẫn đến / gây ra...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 60,
+    "topic": "28. Sản xuất công nghiệp",
+    "vietnameseSentence": "Nếu không có đủ nguyên liệu, các nhà máy sẽ không thể duy trì sản xuất ổn định.",
+    "sampleAnswer": "Unless there are enough materials, factories will not be able to maintain stable production.",
+    "formula": "Unless + S + V, S + will + V",
+    "hint": "Nếu không... thì sẽ...",
+    "sourceFile": "Translation 74",
+    "needsReview": true
+  },
+  {
+    "id": 61,
+    "topic": "29. Xuất khẩu",
+    "vietnameseSentence": "Các doanh nghiệp xuất khẩu có thể hưởng lợi từ nhu cầu quốc tế tăng mạnh.",
+    "sampleAnswer": "Export businesses can benefit from a dramatic increase/a growth in international demand.",
+    "formula": "S + benefit from + N",
+    "hint": "Được hưởng lợi từ...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 62,
+    "topic": "30. Thương mại quốc tế",
+    "vietnameseSentence": "Các hiệp định thương mại có thể tạo điều kiện thuận lợi cho hoạt động kinh doanh giữa các quốc gia.",
+    "sampleAnswer": "Trade Agreements can facilitate business activities between countries.",
+    "formula": "S + facilitate + N",
+    "hint": "Tạo điều kiện / thúc đẩy...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 63,
+    "topic": "31. Lạm phát",
+    "vietnameseSentence": "Giá năng lượng tăng cao có thể đẩy chi phí sản xuất lên đáng kể.",
+    "sampleAnswer": "Rising energy prices can drive up production costs significantly.",
+    "formula": "S + drive up + N",
+    "hint": "Đẩy giá / chi phí lên cao",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 64,
+    "topic": "32. Giá cả hàng hóa",
+    "vietnameseSentence": "Giá thực phẩm có thể tăng mạnh khi nguồn cung bị gián đoạn.",
+    "sampleAnswer": "Food prices can rise sharply when the supply is disrupted.",
+    "formula": "S + rise sharply + when + S + V",
+    "hint": "Tăng mạnh khi...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 65,
+    "topic": "33. Chính sách tiền tệ",
+    "vietnameseSentence": "Ngân hàng trung ương có thể thắt chặt chính sách tiền tệ để kiểm soát lạm phát.",
+    "sampleAnswer": "The central bank can tighten monetary policies to gain control over inflation.",
+    "formula": "S + tighten + N",
+    "hint": "Thắt chặt...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 66,
+    "topic": "34. Chi tiêu chính phủ",
+    "vietnameseSentence": "Chính phủ nên phân bổ nhiều ngân sách hơn cho giáo dục và y tế công cộng.",
+    "sampleAnswer": "The government should allocate more funds to education and public health.",
+    "formula": "S + allocate funds to + N",
+    "hint": "Phân bổ ngân sách cho...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 67,
+    "topic": "35. Dịch vụ công",
+    "vietnameseSentence": "Người dân ở vùng nông thôn cần được tiếp cận tốt hơn với các dịch vụ y tế.",
+    "sampleAnswer": "People from rural areas need to have better access to healthcare services.",
+    "formula": "S + have access to + N",
+    "hint": "Có quyền / khả năng tiếp cận...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 68,
+    "topic": "36. Đầu tư vào giáo dục",
+    "vietnameseSentence": "Đầu tư vào giáo dục không chỉ nâng cao chất lượng nguồn nhân lực mà còn thúc đẩy tăng trưởng kinh tế.",
+    "sampleAnswer": "Not only does investment in education improve the quality of workforce, but also promotes economic growth.",
+    "formula": "Not only + auxiliary + S + V, but also + S + V",
+    "hint": "Không những... mà còn...",
+    "sourceFile": "Translation 74",
+    "needsReview": false
+  },
+  {
+    "id": 69,
+    "topic": "1. Chăm sóc sức khỏe",
+    "vietnameseSentence": "Mọi người nên chăm sóc sức khỏe của mình bằng cách duy trì những thói quen lành mạnh.",
+    "sampleAnswer": "People should take care of their health by maintaining healthy habits",
+    "formula": "S + take care of + N +by V-ing",
+    "hint": "Chăm sóc / quan tâm đến...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 70,
+    "topic": "2. Chế độ ăn uống lành mạnh",
+    "vietnameseSentence": "Một chế độ ăn uống lành mạnh nên giàu vitamin, khoáng chất và chất xơ.",
+    "sampleAnswer": "A healthy diet should be rich in vitamins, minerals and fiber.",
+    "formula": "S + be rich in + N",
+    "hint": "Giàu / chứa nhiều...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 71,
+    "topic": "3. Ăn trái cây",
+    "vietnameseSentence": "Ăn nhiều trái cây và rau củ có lợi cho sức khỏe tổng thể.",
+    "sampleAnswer": "Eating plenty of fruit and vegetables is beneficial to the overall health.",
+    "formula": "S + be beneficial to + N",
+    "hint": "Có lợi cho...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 72,
+    "topic": "4. Tập thể dục thường xuyên",
+    "vietnameseSentence": "Bằng cách tập thể dục thường xuyên, mọi người có thể cải thiện sức khỏe thể chất.",
+    "sampleAnswer": "By exercising regularly, people can improve their physical health.",
+    "formula": "By + V-ing, S + can + V",
+    "hint": "Bằng cách làm gì, ai đó có thể...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 73,
+    "topic": "5. Sức khỏe thể chất",
+    "vietnameseSentence": "Hoạt động thể chất thường xuyên góp phần cải thiện sức khỏe thể chất và tinh thần.",
+    "sampleAnswer": "Regular physical activities contribute to improving our physical and mental health",
+    "formula": "S + contribute to + N/V-ing",
+    "hint": "Góp phần vào...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 74,
+    "topic": "6. Sức khỏe tinh thần",
+    "vietnameseSentence": "Một lối sống lành mạnh có thể có tác động tích cực đến sức khỏe tinh thần.",
+    "sampleAnswer": "A healthy lifestyle can have a positive impact on the mental health.",
+    "formula": "S + have a positive impact on + N",
+    "hint": "Có tác động tích cực đến...",
+    "sourceFile": "Translation 75",
+    "needsReview": true
+  },
+  {
+    "id": 75,
+    "topic": "7. Giấc ngủ",
+    "vietnameseSentence": "Ngủ đủ giấc là điều cần thiết để duy trì sức khỏe tốt.",
+    "sampleAnswer": "Getting enough/adequate sleep is essential for maintaining a better health.",
+    "formula": "S + be essential for + N/V-ing",
+    "hint": "Cần thiết cho...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 76,
+    "topic": "8. Thiếu ngủ",
+    "vietnameseSentence": "Thiếu ngủ kéo dài có thể dẫn đến các vấn đề nghiêm trọng về sức khỏe.",
+    "sampleAnswer": "Prolonged sleep deprivation can result in serious health problems.",
+    "formula": "S + result in + N",
+    "hint": "Dẫn đến / gây ra...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 77,
+    "topic": "9. ⏰ Thói quen ngủ",
+    "vietnameseSentence": "Mọi người nên xây dựng thói quen ngủ đều đặn để cải thiện chất lượng giấc ngủ.",
+    "sampleAnswer": "People should establish a regular sleeping habit/routine/schedule to improve their sleep quality.",
+    "formula": "S + establish + N",
+    "hint": "Xây dựng / thiết lập...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 78,
+    "topic": "10. Uống đủ nước",
+    "vietnameseSentence": "Người trưởng thành được khuyến nghị uống đủ nước mỗi ngày.",
+    "sampleAnswer": "Adults are recommended to drink enough water every day.",
+    "formula": "S + be recommended to + V",
+    "hint": "Được khuyến nghị nên...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 79,
+    "topic": "11. Mất nước",
+    "vietnameseSentence": "Tình trạng mất nước có thể được gây ra bởi việc không uống đủ nước.",
+    "sampleAnswer": "Dehydration can be caused by not drinking enough water.",
+    "formula": "S + be caused by + N",
+    "hint": "Được gây ra bởi...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 80,
+    "topic": "12. Đồ uống có đường",
+    "vietnameseSentence": "Nhiều loại đồ uống có đường có hàm lượng calo cao.",
+    "sampleAnswer": "Many types of sugary drinks/beverages are high in calories.",
+    "formula": "S + be high in + N",
+    "hint": "Có hàm lượng cao...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 81,
+    "topic": "13. Thức ăn nhanh",
+    "vietnameseSentence": "Việc tiêu thụ quá nhiều thức ăn nhanh có liên quan đến nhiều vấn đề sức khỏe.",
+    "sampleAnswer": "Excessive consumption of fast food is associated with many health problems.",
+    "formula": "S + be associated with + N",
+    "hint": "Có liên quan đến...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 82,
+    "topic": "14. Cân nặng",
+    "vietnameseSentence": "Mọi người nên duy trì cân nặng hợp lý để giảm nguy cơ mắc bệnh.",
+    "sampleAnswer": "People should maintain their healthy body weight to reduce the risk of diseases.",
+    "formula": "S + maintain + N",
+    "hint": "Duy trì...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 83,
+    "topic": "15. Béo phì",
+    "vietnameseSentence": "Béo phì có thể làm tăng nguy cơ mắc bệnh tim và tiểu đường.",
+    "sampleAnswer": "Obesity / overweight can increase the risk of cardiovascular disease and diabetes.",
+    "formula": "S + increase the risk of + N/V-ing",
+    "hint": "Làm tăng nguy cơ...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 84,
+    "topic": "16. Bệnh tim",
+    "vietnameseSentence": "Những người hút thuốc thường có nguy cơ mắc bệnh tim cao hơn.",
+    "sampleAnswer": "Smokers are at high risk of developing/ suffering from heart disease.",
+    "formula": "S + be at risk of + N/V-ing",
+    "hint": "Có nguy cơ...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 85,
+    "topic": "17. Hút thuốc",
+    "vietnameseSentence": "Hút thuốc có hại cho phổi và sức khỏe tổng thể.",
+    "sampleAnswer": "Smoking is harmful to the lungs and overall health.",
+    "formula": "S + be harmful to + N",
+    "hint": "Có hại cho...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 86,
+    "topic": "18. Rượu bia",
+    "vietnameseSentence": "Việc tiêu thụ quá nhiều rượu bia có liên quan đến nhiều bệnh mãn tính.",
+    "sampleAnswer": "Excessive consumption (Overconsumption) of alcohol is linked to many chronic diseases.",
+    "formula": "S + be linked to + N",
+    "hint": "Có liên quan đến...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 87,
+    "topic": "21. Dịch: Tiêm chủng có thể giúp ngăn ngừa nhiều bệnh truyền nhiễm.",
+    "vietnameseSentence": "Vắc-xin giúp bảo vệ mọi người khỏi những căn bệnh nguy hiểm.",
+    "sampleAnswer": "Vaccines help protect people against dangerous diseases.",
+    "formula": "Tiêm chủng",
+    "hint": "S + protect + O + against + N",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 88,
+    "topic": "22. Khám sức khỏe",
+    "vietnameseSentence": "Người lớn tuổi nên kiểm tra sức khỏe định kỳ để phát hiện bệnh sớm.",
+    "sampleAnswer": "Older people should undergo regular medical/health check-ups (examinations) to detect diseases early.",
+    "formula": "S + undergo + N",
+    "hint": "Trải qua / thực hiện...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 89,
+    "topic": "23. Phát hiện sớm",
+    "vietnameseSentence": "Việc kiểm tra sức khỏe thường xuyên giúp bác sĩ phát hiện bệnh ở giai đoạn sớm.",
+    "sampleAnswer": "Regular medical check-ups enable doctors to detect diseases at an early age.",
+    "formula": "S + enable + O + to + V",
+    "hint": "Cho phép / giúp ai làm gì...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 90,
+    "topic": "24. Chẩn đoán bệnh",
+    "vietnameseSentence": "Nhiều bệnh nhân được chẩn đoán mắc bệnh sau khi xuất hiện các triệu chứng rõ ràng.",
+    "sampleAnswer": "Many patients are diagnosed with a disease after clear symptoms appear.",
+    "formula": "S + be diagnosed with + N",
+    "hint": "Được chẩn đoán mắc...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 91,
+    "topic": "25. Triệu chứng",
+    "vietnameseSentence": "Căn bệnh này được đặc trưng bởi những triệu chứng như sốt, mệt mỏi và đau đầu.",
+    "sampleAnswer": "This disease is characterized by symptoms such as fever, fatigue and headache.",
+    "formula": "S + be characterized by + N",
+    "hint": "Được đặc trưng bởi...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 92,
+    "topic": "26. Sốt",
+    "vietnameseSentence": "Sốt cao có thể đi kèm với đau đầu và cảm giác mệt mỏi.",
+    "sampleAnswer": "A high fever is accompanied by heachaches and fatigue.",
+    "formula": "S + be accompanied by + N",
+    "hint": "Đi kèm với...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 93,
+    "topic": "27. Thuốc",
+    "vietnameseSentence": "Loại thuốc này thường được kê đơn để giảm đau và kiểm soát các triệu chứng.",
+    "sampleAnswer": "This medication is prescribed to relieve pain and control symptoms.",
+    "formula": "S + be prescribed to + V",
+    "hint": "Được kê đơn để...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 94,
+    "topic": "28. Điều trị",
+    "vietnameseSentence": "Một số bệnh nhân đáp ứng tốt với phương pháp điều trị này.",
+    "sampleAnswer": "Some patients respond well to this treatment.",
+    "formula": "S + respond well to + N",
+    "hint": "Đáp ứng tốt với...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 95,
+    "topic": "29. Bệnh mãn tính",
+    "vietnameseSentence": "Các bệnh mãn tính thường đòi hỏi việc điều trị lâu dài và theo dõi thường xuyên.",
+    "sampleAnswer": "Chronic diseases often require long-term treatments and regular monitoring.",
+    "formula": "S + require + N/V-ing",
+    "hint": "Đòi hỏi / cần...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 96,
+    "topic": "30. Phục hồi sức khỏe",
+    "vietnameseSentence": "Hầu hết bệnh nhân có thể hồi phục sau căn bệnh này nếu được điều trị đúng cách.",
+    "sampleAnswer": "Most patients can recover from this treatment if they receive proper treatment.",
+    "formula": "S + recover from + N",
+    "hint": "Hồi phục sau / khỏi...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 97,
+    "topic": "31. Giảm căng thẳng",
+    "vietnameseSentence": "Tập thể dục và thiền có thể giúp giảm căng thẳng sau một ngày làm việc dài.",
+    "sampleAnswer": "Exersising and meditation can help relieve stress after a long day at work.",
+    "formula": "S + relieve + N",
+    "hint": "Làm giảm / giảm bớt...",
+    "sourceFile": "Translation 75",
+    "needsReview": false
+  },
+  {
+    "id": 98,
+    "topic": "1. Giao tiếp với đồng nghiệp",
+    "vietnameseSentence": "Một số nhân viên có xu hướng tránh đưa ra ý kiến trong các cuộc họp.",
+    "sampleAnswer": "Some employees tend to avoid giving their opinions (expressing their views) in meetings.",
+    "formula": "S + tend to + V",
+    "hint": "Có xu hướng làm gì...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 99,
+    "topic": "2. Đưa ra ý kiến",
+    "vietnameseSentence": "Tôi không thấy lý do tại sao chúng ta nên thay đổi kế hoạch vào thời điểm này.",
+    "sampleAnswer": "I see no reason why we should change our plan at this stage.",
+    "formula": "S + see no reason why + S + should + V",
+    "hint": "Không thấy lý do tại sao ai đó nên...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 100,
+    "topic": "3. Hợp tác",
+    "vietnameseSentence": "Nhóm của tôi rất mong muốn hợp tác với bộ phận marketing trong dự án mới.",
+    "sampleAnswer": "My team is keen on collaborating/cooperating with the Marketing department on the new project.",
+    "formula": "S + be keen on + N/V-ing",
+    "hint": "Rất hứng thú / mong muốn...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 101,
+    "topic": "4. Sắp xếp cuộc họp",
+    "vietnameseSentence": "Chúng tôi vẫn chưa thống nhất được thời gian phù hợp cho cuộc họp.",
+    "sampleAnswer": "We have yet to agree on a suitable/convenient time for the meeting.",
+    "formula": "S + have yet to + V",
+    "hint": "Vẫn chưa làm gì...",
+    "sourceFile": "Translation 76",
+    "needsReview": true
+  },
+  {
+    "id": 102,
+    "topic": "5. Trả lời email",
+    "vietnameseSentence": "Tôi mong được thảo luận thêm về vấn đề này với anh trong cuộc họp tuần tới.",
+    "sampleAnswer": "I look forward to discussing this matter further with you in next week’s meeting.",
+    "formula": "S + look forward to + V-ing",
+    "hint": "Mong đợi / trông chờ...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 103,
+    "topic": "6. Liên lạc với khách hàng",
+    "vietnameseSentence": "Một số khách hàng gặp khó khăn trong việc liên lạc với bộ phận hỗ trợ.",
+    "sampleAnswer": "Some clients/customers have difficulty (in) contacting the Support department.",
+    "formula": "S + have difficulty + V-ing",
+    "hint": "Gặp khó khăn trong việc...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 104,
+    "topic": "7. Báo cáo công việc",
+    "vietnameseSentence": "Tôi cứ nghĩ rằng báo cáo này phải được gửi trước thứ Sáu.",
+    "sampleAnswer": "I was under the impression that this report had to be sent before Friday.",
+    "formula": "S + be under the impression that + S + V",
+    "hint": "Có ấn tượng / nghĩ rằng...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 105,
+    "topic": "8. Làm rõ thông tin",
+    "vietnameseSentence": "Ý tôi là chúng ta cần thêm thời gian để kiểm tra toàn bộ dữ liệu.",
+    "sampleAnswer": "What I mean is that we need more time to check all the data.",
+    "formula": "What I mean is that + S + V",
+    "hint": "Ý tôi là...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 106,
+    "topic": "9. Quản lý nhân viên",
+    "vietnameseSentence": "Nhân viên được kỳ vọng sẽ chủ động giải quyết những vấn đề nhỏ.",
+    "sampleAnswer": "Employees are expected to take the initative in solving minor issues/problems.",
+    "formula": "S + be expected to + V",
+    "hint": "Được kỳ vọng / yêu cầu phải...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 107,
+    "topic": "10. Mục tiêu công việc",
+    "vietnameseSentence": "Công ty cam kết cải thiện chất lượng dịch vụ trong năm nay.",
+    "sampleAnswer": "The company is committed to improving the quality of its services this year.",
+    "formula": "S + be committed to + V-ing",
+    "hint": "Cam kết làm gì...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 108,
+    "topic": "11. ⏰ Đúng thời hạn",
+    "vietnameseSentence": "Chúng ta không còn lựa chọn nào khác ngoài việc trì hoãn cuộc họp.",
+    "sampleAnswer": "We have no choice but to put the meeting off",
+    "formula": "S + have no choice but to + V",
+    "hint": "Không còn lựa chọn nào khác ngoài việc...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 109,
+    "topic": "12. Công việc khẩn cấp",
+    "vietnameseSentence": "Chúng ta không thể để mất thêm thời gian vào vấn đề này.",
+    "sampleAnswer": "We can’t afford to waste any more time on this issue.",
+    "formula": "S + can't afford to + V",
+    "hint": "Không thể để xảy ra / không thể chấp nhận việc...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 110,
+    "topic": "13. Phân công công việc",
+    "vietnameseSentence": "Quản lý đã phân công tôi phụ trách khách hàng mới.",
+    "sampleAnswer": "The manager assigned me to take charge of new clients.",
+    "formula": "S + assign + O + to + N",
+    "hint": "Phân công ai vào / cho nhiệm vụ gì...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 111,
+    "topic": "14. Làm việc nhóm",
+    "vietnameseSentence": "Tôi đang tham gia vào việc phát triển một chiến lược kinh doanh mới.",
+    "sampleAnswer": "I am involved in developing a new business strategy.",
+    "formula": "S + be involved in + N/V-ing",
+    "hint": "Tham gia vào...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 112,
+    "topic": "15. Làm việc từ xa",
+    "vietnameseSentence": "Nhân viên có thể làm việc từ xa miễn là họ hoàn thành công việc đúng hạn.",
+    "sampleAnswer": "Employees can telecommute (work remotely) provided that they complete their work/tasks on time.",
+    "formula": "Provided/Providing that + S + V, S + can + V",
+    "hint": "Miễn là / với điều kiện là...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 113,
+    "topic": "16. Thay đổi kế hoạch",
+    "vietnameseSentence": "Lịch làm việc có khả năng sẽ thay đổi do cuộc họp với khách hàng.",
+    "sampleAnswer": "The work schedule is likely to change due to the meeting with clients.",
+    "formula": "S + be likely to + V",
+    "hint": "Có khả năng...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 114,
+    "topic": "17. Ra quyết định",
+    "vietnameseSentence": "Ban quản lý cần cân nhắc chi phí với những lợi ích tiềm năng.",
+    "sampleAnswer": "The management needs to weigh the costs against potential benefits",
+    "formula": "S + weigh + A + against + B",
+    "hint": "Cân nhắc A với B...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 115,
+    "topic": "18. Đề xuất giải pháp",
+    "vietnameseSentence": "Tôi thà giải quyết vấn đề ngay còn hơn để nó trở nên nghiêm trọng hơn.",
+    "sampleAnswer": "I would rather address/solve/deal with this issue now/immediately than let it become more serious.",
+    "formula": "S + would rather + V + than + V",
+    "hint": "Thà làm gì hơn là làm gì...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 116,
+    "topic": "19. Xử lý vấn đề",
+    "vietnameseSentence": "Công ty đang phải đối mặt với một số khó khăn nghiêm trọng về tài chính.",
+    "sampleAnswer": "The company is faced with some serious financial difficulties.",
+    "formula": "S + be faced with + N",
+    "hint": "Đối mặt với...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 117,
+    "topic": "20. Giải quyết sự cố",
+    "vietnameseSentence": "Công ty đang thực hiện các bước để cải thiện môi trường làm việc.",
+    "sampleAnswer": "The company is taking steps to improve its working environment.",
+    "formula": "S + take steps to + V",
+    "hint": "Thực hiện các bước để...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 118,
+    "topic": "21. Cải thiện hiệu suất",
+    "vietnameseSentence": "Kết quả của nhóm vẫn chưa đạt được mục tiêu mà công ty đề ra.",
+    "sampleAnswer": "The team’s results fall short of the target set by the company.",
+    "formula": "S + fall short of + N",
+    "hint": "Không đạt được...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 119,
+    "topic": "22. Thành tích",
+    "vietnameseSentence": "Công ty tự hào về việc cung cấp dịch vụ chất lượng cao cho khách hàng.",
+    "sampleAnswer": "The company takes pride in providing the clients with high-quality services.",
+    "formula": "S + take pride in + N/V-ing",
+    "hint": "Tự hào về...",
+    "sourceFile": "Translation 76",
+    "needsReview": false
+  },
+  {
+    "id": 120,
+    "topic": "1. Một thành phố nổi tiếng",
+    "vietnameseSentence": "Thành phố này nổi tiếng với những lễ hội sôi động và cảnh đẹp tuyệt vời.",
+    "sampleAnswer": "This city is well-known for its lively/vibrant festivals and spectacular scenery.",
+    "formula": "S + be well-known for + N/V-ing",
+    "hint": "Nổi tiếng về...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 121,
+    "topic": "2. Chất lượng cuộc sống",
+    "vietnameseSentence": "Sydney được biết đến là một thành phố có chất lượng cuộc sống tốt.",
+    "sampleAnswer": "Sydney is known as a city having a good quality of life.",
+    "formula": "S + have a good quality of life",
+    "hint": "Có chất lượng cuộc sống tốt",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 122,
+    "topic": "3. Giao thông công cộng",
+    "vietnameseSentence": "Thành phố này có hệ thống giao thông công cộng nhanh và đáng tin cậy.",
+    "sampleAnswer": "This city has a fast/rapid and reliable public transport system.",
+    "formula": "S + have + adj + public transport",
+    "hint": "Có hệ thống giao thông công cộng như thế nào...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 123,
+    "topic": "4. Cư dân thân thiện",
+    "vietnameseSentence": "Thành phố này được biết đến với những cư dân thân thiện và hiếu khách.",
+    "sampleAnswer": "This city is known for its friendly and hospitable/welcoming inhabitants/residents.",
+    "formula": "S + be known for + friendly inhabitants",
+    "hint": "Được biết đến với những cư dân thân thiện",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 124,
+    "topic": "5. Lễ hội sôi động",
+    "vietnameseSentence": "Thành phố này nổi tiếng với những lễ hội sôi động quanh năm.",
+    "sampleAnswer": "This city is famous for (well-known for / renowned for) its lively/vibrant festivals throughout the year (all year round)",
+    "formula": "S + be famous for + lively festivals",
+    "hint": "Nổi tiếng với những lễ hội sôi động",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 125,
+    "topic": "6. Cảnh đẹp",
+    "vietnameseSentence": "Thành phố này có cảnh quan tuyệt đẹp và nhiều công viên xanh.",
+    "sampleAnswer": "This city has a spectacular scenery and many / numerous green spaces / parks",
+    "formula": "S + have + spectacular scenery",
+    "hint": "Có cảnh quan tuyệt đẹp",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 126,
+    "topic": "7. Đồ ăn địa phương",
+    "vietnameseSentence": "Hội An nổi tiếng với đồ ăn địa phương ngon và những con phố cổ.",
+    "sampleAnswer": "Hoi An is famous for its tasty local food and old streets.",
+    "formula": "S + be famous for + tasty local food",
+    "hint": "Nổi tiếng với đồ ăn địa phương ngon",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 127,
+    "topic": "8. Lối sống thoải mái",
+    "vietnameseSentence": "Thành phố nhỏ này mang lại một lối sống thoải mái cho người dân.",
+    "sampleAnswer": "This small city offers a relaxed lifestyle for its residents.",
+    "formula": "S + offer + a relaxed lifestyle",
+    "hint": "Mang lại một lối sống thoải mái",
+    "sourceFile": "Translation 77",
+    "needsReview": true
+  },
+  {
+    "id": 128,
+    "topic": "9. Thành phố đông đúc",
+    "vietnameseSentence": "Trung tâm thành phố thường rất đông đúc vào giờ cao điểm.",
+    "sampleAnswer": "The city center is usually crowded/packed during rush hour. (peak hours)",
+    "formula": "S + be + crowded",
+    "hint": "Đông đúc",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 129,
+    "topic": "10. Ùn tắc giao thông",
+    "vietnameseSentence": "Nhiều thành phố lớn đang gặp phải các vấn đề nghiêm trọng về giao thông.",
+    "sampleAnswer": "Many major/big cities are suffering from serious traffic problems/issues.",
+    "formula": "S + suffer from + traffic problems",
+    "hint": "Gặp phải các vấn đề về giao thông",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 130,
+    "topic": "11. Tỷ lệ tội phạm cao",
+    "vietnameseSentence": "Một số thành phố lớn có tỷ lệ tội phạm cao, đặc biệt là ở những khu vực nghèo.",
+    "sampleAnswer": "Some major/big cities have a high crime rate, particularly/especially in poor/underprivileged/deprived areas",
+    "formula": "S + have + a high crime rate",
+    "hint": "Có tỷ lệ tội phạm cao",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 131,
+    "topic": "12. Nơi đáng sống",
+    "vietnameseSentence": "Thành phố này là một nơi tuyệt vời để sống và làm việc.",
+    "sampleAnswer": "This city is a great place to live and work.",
+    "formula": "S + be a great place to live",
+    "hint": "Là một nơi tuyệt vời để sống",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 132,
+    "topic": "13. Vị trí gần biển",
+    "vietnameseSentence": "Thành phố này nằm gần biển nên có khí hậu khá dễ chịu.",
+    "sampleAnswer": "This city is located near the sea, so it has a fairly pleasant climate.",
+    "formula": "S + be located near + N",
+    "hint": "Nằm gần...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 133,
+    "topic": "14. Vị trí trên núi",
+    "vietnameseSentence": "Ngôi làng nằm trên núi và được bao quanh bởi cảnh đẹp tự nhiên.",
+    "sampleAnswer": "The village is located in the mountains and is surrounded by natural scenery. (landscapes)",
+    "formula": "S + be located in + the mountains",
+    "hint": "Nằm ở vùng núi",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 134,
+    "topic": "15. Gần sa mạc",
+    "vietnameseSentence": "Thành phố nằm gần sa mạc nên thời tiết thường rất khô.",
+    "sampleAnswer": "Desert vs dessert",
+    "formula": "S + be situated near + N",
+    "hint": "Nằm gần...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 135,
+    "topic": "16. Được bao quanh bởi thiên nhiên",
+    "vietnameseSentence": "Ngôi làng được bao quanh bởi những ngọn núi và những khu rừng rộng lớn.",
+    "sampleAnswer": "The village is surrounded by mountains and large/vast forests/woodlands",
+    "formula": "S + be surrounded by + N",
+    "hint": "Được bao quanh bởi...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 136,
+    "topic": "17. Vùng ngoại ô",
+    "vietnameseSentence": "Nhiều gia đình thích sống ở vùng ngoại ô vì nơi đó yên tĩnh hơn.",
+    "sampleAnswer": "Many families prefer to live in the suburbs because they are quieter. (tranquil)",
+    "formula": "S + live in the suburbs",
+    "hint": "Sống ở vùng ngoại ô",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 137,
+    "topic": "18. Vùng nông thôn",
+    "vietnameseSentence": "Tôi thích sống ở vùng nông thôn vì tôi có thể tận hưởng một lối sống thoải mái.",
+    "sampleAnswer": "I prefer to live in the countryside because I can enjoy a relaxed way of life (lifestyle)",
+    "formula": "S + live in the countryside",
+    "hint": "Sống ở vùng nông thôn",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 138,
+    "topic": "19. Gần sông",
+    "vietnameseSentence": "Gia đình tôi sống gần một con sông và chúng tôi thường đi bộ dọc theo bờ sông.",
+    "sampleAnswer": "My family lives near/by a river and we often walk along the riverbank.",
+    "formula": "S + live near/by + N",
+    "hint": "Sống gần...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 139,
+    "topic": "20. Kiến trúc",
+    "vietnameseSentence": "Thành phố này nổi tiếng với kiến trúc cổ và những tòa nhà đẹp.",
+    "sampleAnswer": "This city is famous for its ancient architecture and beautiful/stunning/spectacular buildings",
+    "formula": "S + be famous for + its architecture",
+    "hint": "Nổi tiếng với kiến trúc của mình",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 140,
+    "topic": "21. Thành phố đa dạng",
+    "vietnameseSentence": "Đây là một thành phố đa dạng về văn hóa với người dân đến từ nhiều quốc gia khác nhau.",
+    "sampleAnswer": "This is a culturally diverse city with people from many different countries.",
+    "formula": "S + be + culturally diverse",
+    "hint": "Đa dạng về văn hóa",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 141,
+    "topic": "22. Thành phố giàu có",
+    "vietnameseSentence": "Đây là một khu vực tương đối giàu có với mức sống cao.",
+    "sampleAnswer": "This is a relatively affluent area with a high living standards (standards of living)",
+    "formula": "S + be relatively affluent",
+    "hint": "Tương đối giàu có",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 142,
+    "topic": "23. Người dân địa phương",
+    "vietnameseSentence": "Công viên này rất phổ biến với người dân địa phương vào cuối tuần.",
+    "sampleAnswer": "This park is popular with locals at weekends.",
+    "formula": "S + be popular with + locals",
+    "hint": "Phổ biến với người dân địa phương",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 143,
+    "topic": "24. Thành phố công nghiệp",
+    "vietnameseSentence": "Thành phố này từng là một trung tâm công nghiệp quan trọng của khu vực.",
+    "sampleAnswer": "This city was once an important industrial center in the region.",
+    "formula": "S + be an industrial city",
+    "hint": "Là một thành phố công nghiệp",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 144,
+    "topic": "25. Danh tiếng của thành phố",
+    "vietnameseSentence": "Thành phố này có danh tiếng tốt về hệ thống giao thông công cộng.",
+    "sampleAnswer": "This city has a good reputation for its public transport system.",
+    "formula": "S + have a good/bad reputation for + N",
+    "hint": "Có danh tiếng tốt/xấu về...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 145,
+    "topic": "26. Xếp hạng",
+    "vietnameseSentence": "Thành phố này xếp thứ ba trong danh sách những nơi đáng sống nhất.",
+    "sampleAnswer": "This city ranks third in the list of the most liveable places.",
+    "formula": "S + rank + ordinal number + in + N",
+    "hint": "Xếp hạng thứ...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 146,
+    "topic": "27. Được xếp hạng cao",
+    "vietnameseSentence": "Thành phố này được xếp hạng cao về chất lượng cuộc sống.",
+    "sampleAnswer": "This city is ranked highly for its high quality of life.",
+    "formula": "S + rank highly in + N",
+    "hint": "Được xếp hạng cao về...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 147,
+    "topic": "28. Tác động tiêu cực",
+    "vietnameseSentence": "Tỷ lệ tội phạm cao có tác động tiêu cực đến ngành du lịch.",
+    "sampleAnswer": "A high crime rate has a negative impact on tourism.",
+    "formula": "S + have a negative impact on + N",
+    "hint": "Có tác động tiêu cực đến...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 148,
+    "topic": "29. Tác động tích cực",
+    "vietnameseSentence": "Giao thông công cộng tốt có tác động tích cực đến chất lượng cuộc sống.",
+    "sampleAnswer": "A good public transport system has a positive impact on the quality of life.",
+    "formula": "S + have a positive impact on + N",
+    "hint": "Có tác động tích cực đến...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 149,
+    "topic": "30. Ảnh hưởng đến quyết định",
+    "vietnameseSentence": "Những câu chuyện trên báo chí có thể ảnh hưởng đến quyết định của khách du lịch.",
+    "sampleAnswer": "Stories in the media can influence tourists’ decisions.",
+    "formula": "S + influence + O",
+    "hint": "Ảnh hưởng đến...",
+    "sourceFile": "Translation 77",
+    "needsReview": false
+  },
+  {
+    "id": 150,
+    "topic": "01. KHUYẾN KHÍCH MỌI NGƯỜI ĂN LÀNH MẠNH",
+    "vietnameseSentence": "Cha mẹ nên khuyến khích con cái ăn nhiều rau và trái cây hơn thay vì thường xuyên ăn đồ ăn nhanh.",
+    "sampleAnswer": "Parents should encourage their children to eat more vegetables and fruit instead of regularly eating fast food.",
+    "formula": "Công thức: encourage sb to do sth",
+    "hint": "Giải nghĩa: Khuyến khích ai đó làm một việc gì.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 151,
+    "topic": "02. ĐỔ LỖI CHO AI VỀ ĐIỀU GÌ",
+    "vietnameseSentence": "Nhiều người đổ lỗi cho các công ty thực phẩm về việc quảng cáo quá nhiều đồ ăn không lành mạnh cho trẻ em.",
+    "sampleAnswer": "Many people blame food companies for advertising too much unhealthy food to children.",
+    "formula": "Công thức: blame sth on sb / blame sb for doing st",
+    "hint": "Giải nghĩa: Đổ lỗi cho ai đó về một vấn đề hoặc kết quả không tốt.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 152,
+    "topic": "03. CUNG CẤP CHO AI CÁI GÌ",
+    "vietnameseSentence": "Một bữa sáng cân bằng cung cấp cho cơ thể chúng ta những chất dinh dưỡng cần thiết để bắt đầu một ngày mới.",
+    "sampleAnswer": "A balanced breakfast provides our body with vital nutrients to start a new day.",
+    "formula": "Công thức: provide sb with sth / provide sth for sb",
+    "hint": "Giải nghĩa: Cung cấp cho ai đó một thứ mà họ cần.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 153,
+    "topic": "04. NGĂN AI LÀM GÌ",
+    "vietnameseSentence": "Một chế độ ăn uống lành mạnh có thể giúp ngăn mọi người mắc phải một số vấn đề sức khỏe nghiêm trọng.",
+    "sampleAnswer": "A healthy diet (eating habit) can prevent people from suffering from severe health problems",
+    "formula": "Công thức: prevent sb from doing sth",
+    "hint": "Giải nghĩa: Ngăn cản ai đó thực hiện một hành động.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 154,
+    "topic": "05. THUYẾT PHỤC AI LÀM GÌ",
+    "vietnameseSentence": "Tôi đã thuyết phục anh trai mình thử món ăn này mặc dù ban đầu anh ấy không muốn.",
+    "sampleAnswer": "I persuaded my elder brother to try this dish even though he didn’t want to at first.",
+    "formula": "Công thức: persuade sb to do sth",
+    "hint": "Giải nghĩa: Thuyết phục ai đó làm một việc gì.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 155,
+    "topic": "06. CÁO BUỘC AI LÀM GÌ",
+    "vietnameseSentence": "Một số khách hàng cáo buộc nhà hàng sử dụng những nguyên liệu không đủ tươi trong món ăn của họ.",
+    "sampleAnswer": "Some customers accused the restaurant of using ingredients that were not fresh enough in their dishes.",
+    "formula": "Công thức: accuse sb of doing sth",
+    "hint": "Giải nghĩa: Cáo buộc ai đó đã làm một việc sai trái.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 156,
+    "topic": "07. CUNG CẤP CHO AI THỨ GÌ",
+    "vietnameseSentence": "Các trang trại địa phương cung cấp cho nhà hàng những loại rau tươi được thu hoạch mỗi ngày.",
+    "sampleAnswer": "Local farms supply restaurants with fresh vegetables which are harvested every day.",
+    "formula": "Công thức: supply sb with sth",
+    "hint": "Giải nghĩa: Cung cấp một thứ gì đó cho một người hoặc tổ chức.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 157,
+    "topic": "08. DẠY AI LÀM GÌ",
+    "vietnameseSentence": "Bà tôi đã dạy tôi cách nấu một số món ăn truyền thống của Việt Nam khi tôi còn nhỏ.",
+    "sampleAnswer": "My grandmother taught me to cook some Vietnamese traditional dishes when I was young.",
+    "formula": "Công thức: teach sb to do sth",
+    "hint": "Giải nghĩa: Dạy ai đó cách thực hiện một hành động.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 158,
+    "topic": "09. YÊU CẦU AI LÀM GÌ",
+    "vietnameseSentence": "Tôi đã yêu cầu nhân viên nhà hàng mang thêm một ít rau vì món chính có quá nhiều thịt.",
+    "sampleAnswer": "I asked the restaurant staff to bring more vegetables because the main course had too much meat.",
+    "formula": "Công thức: ask sb to do sth",
+    "hint": "Giải nghĩa: Yêu cầu hoặc đề nghị ai đó làm một việc.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 159,
+    "topic": "10. KHUYÊN AI LÀM GÌ",
+    "vietnameseSentence": "Bác sĩ khuyên tôi uống nhiều nước hơn và hạn chế những loại đồ uống có nhiều đường.",
+    "sampleAnswer": "The doctor advised me to drink more water and reduce/cut back on sugary drinks (beverages)",
+    "formula": "Công thức: advise sb to do sth",
+    "hint": "Giải nghĩa: Khuyên ai đó nên làm một việc gì.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 160,
+    "topic": "11. KHUYẾN KHÍCH AI LÀM GÌ THAY VÌ",
+    "vietnameseSentence": "Nhà trường nên khuyến khích học sinh ăn trái cây thay vì mua đồ ăn vặt có nhiều đường vào giờ nghỉ.",
+    "sampleAnswer": "Schools should encourage students to eat more fruit rather than buy sugary snacks during break time. (at recess)",
+    "formula": "Công thức: encourage sb to do sth rather than do sth",
+    "hint": "Giải nghĩa: Khuyến khích ai lựa chọn một hành động thay cho hành động khác.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 161,
+    "topic": "12. THUYẾT PHỤC AI KHÔNG LÀM GÌ",
+    "vietnameseSentence": "Tôi đã cố thuyết phục bạn mình không gọi thêm món tráng miệng vì chúng tôi đã ăn quá nhiều.",
+    "sampleAnswer": "I tried to persuade my friends not to order extra dessert because we had already eaten too much.",
+    "formula": "Công thức: persuade sb not to do sth",
+    "hint": "Giải nghĩa: Thuyết phục ai đó không thực hiện một hành động.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 162,
+    "topic": "13. KHIẾN AI LÀM GÌ",
+    "vietnameseSentence": "Mùi thơm của món ăn mới khiến mọi người trong nhà chạy vào bếp để xem mẹ đang nấu gì.",
+    "sampleAnswer": "The aroma of the dish made everyone in the living room run to the kitchen to see what mum was cooking.",
+    "formula": "Công thức: make sb do sth",
+    "hint": "Giải nghĩa: Khiến hoặc bắt ai đó làm một việc gì.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 163,
+    "topic": "14. KHIẾN AI CẢM THẤY THẾ NÀO",
+    "vietnameseSentence": "Một bữa ăn ngon cùng gia đình có thể khiến mọi người cảm thấy thư giãn hơn sau một ngày làm việc căng thẳng.",
+    "sampleAnswer": "A delicious meal with family can make everyone more relaxed after a stressful working day.",
+    "formula": "Công thức: make sb + adjective",
+    "hint": "Giải nghĩa: Khiến ai đó có một cảm xúc hoặc trạng thái nhất định.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 164,
+    "topic": "15. CHO PHÉP AI LÀM GÌ",
+    "vietnameseSentence": "Nấu ăn ở nhà cho phép chúng ta kiểm soát lượng muối và đường được sử dụng trong mỗi món ăn.",
+    "sampleAnswer": "Cooking at home allows us to control/regulate the amount of salt and sugar used in each dish.",
+    "formula": "Công thức: allow sb to do sth",
+    "hint": "Giải nghĩa: Cho phép ai đó làm một việc.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 165,
+    "topic": "16. KHÔNG CHO PHÉP AI LÀM GÌ",
+    "vietnameseSentence": "Việc chuẩn bị đồ ăn trước có thể ngăn chúng ta mua đồ ăn nhanh khi quá bận hoặc quá mệt.",
+    "sampleAnswer": "Meal preparation (preparing meals) in advance can prevent us from buying fast food when we are too busy or tired",
+    "formula": "Công thức: prevent sb from doing sth",
+    "hint": "Giải nghĩa: Ngăn không cho ai đó thực hiện một hành động.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 166,
+    "topic": "17. MONG ĐỢI AI LÀM GÌ",
+    "vietnameseSentence": "Khách hàng thường mong đợi các nhà hàng cung cấp những món ăn ngon với mức giá hợp lý.",
+    "sampleAnswer": "Customers usually expect restaurants to offer delicious dishes with reasonable prices.",
+    "formula": "Công thức: expect sb to do sth",
+    "hint": "Giải nghĩa: Mong đợi hoặc cho rằng ai đó sẽ làm một việc.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 167,
+    "topic": "18. MUỐN AI LÀM GÌ",
+    "vietnameseSentence": "Cha mẹ thường muốn con cái ăn nhiều rau hơn nhưng không phải lúc nào trẻ cũng thích chúng.",
+    "sampleAnswer": "Parents often want their children/kids to eat more vegetables but kids do not always like to eat them",
+    "formula": "Công thức: want sb to do sth",
+    "hint": "Giải nghĩa: Muốn ai đó thực hiện một hành động.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 168,
+    "topic": "19. NHỜ AI LÀM GÌ",
+    "vietnameseSentence": "Vì quá bận, tôi đã nhờ em gái chuẩn bị một bữa tối đơn giản cho cả gia đình.",
+    "sampleAnswer": "Because I was too busy, I had my younger sister prepare a simple dinner for our family.",
+    "formula": "Công thức: have sb do sth = have st done",
+    "hint": "Giải nghĩa: Nhờ hoặc thuê ai đó làm một việc cho mình.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 169,
+    "topic": "20. ĐƯỢC NHỜ LÀM GÌ",
+    "vietnameseSentence": "Vì không có thời gian, chúng tôi đã nhờ nhà hàng chuẩn bị sẵn đồ ăn cho bữa tiệc.",
+    "sampleAnswer": "Due to time constraints, we had food prepared by a restaurant for the party.",
+    "formula": "Công thức: have sth done",
+    "hint": "Giải nghĩa: Nhờ người khác làm một việc cho mình.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 170,
+    "topic": "21. ĐỔ LỖI CHO AI VỀ MỘT VẤN ĐỀ",
+    "vietnameseSentence": "Một số người đổ lỗi cho người tiêu dùng vì mua quá nhiều đồ ăn chế biến sẵn thay vì lựa chọn thực phẩm tươi.",
+    "sampleAnswer": "Some people blame consumers for buying too much processed food instead of choosing fresh ingredients.",
+    "formula": "Công thức: blame sb for doing sth",
+    "hint": "Giải nghĩa: Cho rằng ai đó phải chịu trách nhiệm về một hành động hoặc vấn đề.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 171,
+    "topic": "22. CHỊU TRÁCH NHIỆM VỀ",
+    "vietnameseSentence": "Các nhà sản xuất thực phẩm phải chịu trách nhiệm về việc cung cấp thông tin chính xác về thành phần của sản phẩm.",
+    "sampleAnswer": "Food manufacturers must be responsible for providing accurate information about product ingredients.",
+    "formula": "Công thức: be responsible for + N/V-ing",
+    "hint": "Giải nghĩa: Chịu trách nhiệm về một việc hoặc hoạt động.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 172,
+    "topic": "23. ĐÓNG VAI TRÒ TRONG",
+    "vietnameseSentence": "Một chế độ ăn cân bằng đóng vai trò quan trọng trong việc duy trì sức khỏe thể chất và tinh thần.",
+    "sampleAnswer": "A balanced diet plays an important role in maintaining physical and mental health.",
+    "formula": "Công thức: play a role in + N/V-ing",
+    "hint": "Giải nghĩa: Có vai trò hoặc ảnh hưởng trong một vấn đề.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 173,
+    "topic": "24. GÓP PHẦN VÀO",
+    "vietnameseSentence": "Việc ăn quá nhiều đồ ăn nhanh có thể góp phần vào tình trạng béo phì ở trẻ em.",
+    "sampleAnswer": "Excessive consumption / overconsumption of fast food can contribute to obesity / overweight among children (childhood obesity)",
+    "formula": "Công thức: contribute to + N/V-ing",
+    "hint": "Giải nghĩa: Góp phần tạo ra một kết quả hoặc tình huống.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 174,
+    "topic": "25. DẪN ĐẾN",
+    "vietnameseSentence": "Việc tiêu thụ quá nhiều đường trong thời gian dài có thể dẫn đến nhiều vấn đề về sức khỏe.",
+    "sampleAnswer": "The long-term / prolonged overconsumption of sugar can result in many health problems.",
+    "formula": "Công thức: result in + N/V-ing",
+    "hint": "Giải nghĩa: Một hành động hoặc nguyên nhân dẫn đến một kết quả.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 175,
+    "topic": "26. DẪN ĐẾN MỘT KẾT QUẢ",
+    "vietnameseSentence": "Nhiều vấn đề sức khỏe ở trẻ em có thể xuất phát từ việc tiêu thụ quá nhiều đồ uống có đường.",
+    "sampleAnswer": "Many health issues in children can result from the excessive consumption of sugary drinks (soft drinks)",
+    "formula": "Công thức: result from + N/V-ing",
+    "hint": "Giải nghĩa: Một kết quả xuất phát từ một nguyên nhân nào đó.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 176,
+    "topic": "27. PHỤ THUỘC VÀO",
+    "vietnameseSentence": "Việc một người có thể duy trì chế độ ăn lành mạnh hay không phụ thuộc phần lớn vào thói quen và lối sống của họ.",
+    "sampleAnswer": "Whether a person can maintain a balanced/healthy diet or not depends largely/mainly on his/her habits and lifestyle.",
+    "formula": "Công thức: depend on + N/V-ing",
+    "hint": "Giải nghĩa: Phụ thuộc vào một yếu tố hoặc điều kiện nào đó.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 177,
+    "topic": "28. TẬP TRUNG VÀO",
+    "vietnameseSentence": "Thay vì chỉ tập trung vào lượng calo, mọi người nên chú ý đến chất lượng và giá trị dinh dưỡng của thực phẩm.",
+    "sampleAnswer": "Instead of just focusing on calorie intake, people should pay attention to nutritional value of the food.",
+    "formula": "Công thức: focus on + N/V-ing",
+    "hint": "Giải nghĩa: Tập trung sự chú ý hoặc nỗ lực vào một vấn đề.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 178,
+    "topic": "29. QUAN TÂM ĐẾN",
+    "vietnameseSentence": "Ngày càng có nhiều người quan tâm đến lượng đường và chất béo có trong những món ăn họ tiêu thụ hàng ngày.",
+    "sampleAnswer": "More and more people are concerned about the amount of sugar and fat in their daily meals/dishes",
+    "formula": "Công thức: be concerned about + N/V-ing",
+    "hint": "Giải nghĩa: Cảm thấy lo lắng hoặc quan tâm đến một vấn đề.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 179,
+    "topic": "30. CÓ TRÁCH NHIỆM VỚI",
+    "vietnameseSentence": "Mỗi người nên có trách nhiệm với những gì mình ăn nếu muốn duy trì một lối sống lành mạnh.",
+    "sampleAnswer": "Every person should be responsible for what he or she eat if he/she wants to maintain a healthy lifestyle.",
+    "formula": "Công thức: be responsible for + N/V-ing",
+    "hint": "Giải nghĩa: Có trách nhiệm thực hiện hoặc kiểm soát một việc gì.",
+    "sourceFile": "Translation 78",
+    "needsReview": false
+  },
+  {
+    "id": 180,
+    "topic": "01. Khuyến khích ai làm gì",
+    "vietnameseSentence": "Chính phủ nên khuyến khích người dân sử dụng phương tiện giao thông công cộng để giảm tình trạng tắc nghẽn trong thành phố.",
+    "sampleAnswer": "The government should encourage people to use public transport to reduce traffic congestion in cities.",
+    "formula": "Công thức: encourage + somebody + to V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 181,
+    "topic": "02. Đổ lỗi cho ai về điều gì",
+    "vietnameseSentence": "Nhiều người đổ lỗi cho chính phủ về tình trạng thiếu nhà ở giá rẻ tại các thành phố lớn.",
+    "sampleAnswer": "Many people blame the lack of affordable housing on the government in major cities.",
+    "formula": "Công thức: blame + something + on + somebody",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 182,
+    "topic": "03. Ngăn cản ai làm gì",
+    "vietnameseSentence": "Các chính sách mới nhằm ngăn chặn những người trẻ tuổi tham gia vào các hoạt động tội phạm.",
+    "sampleAnswer": "New policies aim to prevent young people from becoming/getting involved in criminal activities.",
+    "formula": "Công thức: prevent + somebody + from + V-ing",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 183,
+    "topic": "04. Cung cấp cho ai cái gì",
+    "vietnameseSentence": "Chính quyền địa phương cần cung cấp cho các gia đình có thu nhập thấp những dịch vụ xã hội cần thiết.",
+    "sampleAnswer": "Local authorities need to provide low-income families with essential social services.",
+    "formula": "Công thức: provide + somebody + with + something",
+    "hint": "= provide something for somebody",
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 184,
+    "topic": "05. Cung cấp cái gì cho ai",
+    "vietnameseSentence": "Chính phủ đang cố gắng cung cấp nhiều cơ hội việc làm hơn cho những người thất nghiệp.",
+    "sampleAnswer": "The government is trying to provide more job/employment opportunities for the unemployed.",
+    "formula": "Công thức: provide + something + for + somebody",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 185,
+    "topic": "06. Đầu tư vào điều gì",
+    "vietnameseSentence": "Nhà nước nên đầu tư nhiều hơn vào giáo dục và đào tạo nghề cho thế hệ trẻ.",
+    "sampleAnswer": "The government should invest more in education and vocational traning for young generation/people.",
+    "formula": "Công thức: invest + in + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 186,
+    "topic": "07. Đóng góp vào điều gì",
+    "vietnameseSentence": "Việc thiếu cơ hội việc làm có thể góp phần vào sự gia tăng tỷ lệ tội phạm ở một số khu vực.",
+    "sampleAnswer": "A lack of job opportunities can contribute to the increase/growth in crime rates in some areas.",
+    "formula": "Công thức: contribute + to + something / V-ing",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 187,
+    "topic": "08. Dẫn đến điều gì",
+    "vietnameseSentence": "Dân số tăng nhanh có thể dẫn đến áp lực lớn hơn đối với hệ thống y tế và giáo dục.",
+    "sampleAnswer": "Rapid population growth can lead to greater pressure on healthcare and education system.",
+    "formula": "Công thức: lead + to + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 188,
+    "topic": "09. Có tác động đến điều gì",
+    "vietnameseSentence": "Các chính sách thuế mới có thể có tác động đáng kể đến các doanh nghiệp nhỏ.",
+    "sampleAnswer": "New tax policies can have a significant impact on small enterprises.",
+    "formula": "Công thức: have an impact/effect + on + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 189,
+    "topic": "10. Chịu trách nhiệm về điều gì",
+    "vietnameseSentence": "Chính quyền địa phương chịu trách nhiệm duy trì các dịch vụ công cộng trong khu vực.",
+    "sampleAnswer": "Local authorities are responsible for maintaining public services in the area.",
+    "formula": "Công thức: be responsible + for + something / V-ing",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 190,
+    "topic": "11. Chịu trách nhiệm làm gì",
+    "vietnameseSentence": "Chính phủ phải chịu trách nhiệm đảm bảo rằng người dân được tiếp cận với các dịch vụ y tế cơ bản.",
+    "sampleAnswer": "The government must be responsible for ensuring that people have access to basic healthcare services.",
+    "formula": "Công thức: be responsible + for + V-ing /st",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 191,
+    "topic": "12. Có lợi cho ai",
+    "vietnameseSentence": "Một hệ thống giao thông công cộng hiệu quả sẽ mang lại lợi ích cho cả người dân và môi trường.",
+    "sampleAnswer": "An efficient public transport system is beneficial to both people and the environment.",
+    "formula": "Công thức: benefit + somebody / be beneficial + to + somebody",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 192,
+    "topic": "13. Được coi là điều gì",
+    "vietnameseSentence": "Giáo dục được coi là một trong những yếu tố quan trọng nhất giúp giảm bất bình đẳng xã hội.",
+    "sampleAnswer": "Social inequality",
+    "formula": "Công thức: be considered + (to be) + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 193,
+    "topic": "14. Được cho là làm gì",
+    "vietnameseSentence": "Chính sách mới được cho là sẽ tạo ra nhiều việc làm hơn cho người dân địa phương.",
+    "sampleAnswer": "New policies are believed to generate/create more jobs for local communities/people/residents.",
+    "formula": "Công thức: be believed/thought + to + V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 194,
+    "topic": "15. Có xu hướng làm gì",
+    "vietnameseSentence": "Những người sống ở các thành phố lớn có xu hướng phải đối mặt với chi phí sinh hoạt cao hơn.",
+    "sampleAnswer": "People living in major cities tend to face higher living costs.",
+    "formula": "Công thức: tend + to + V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 195,
+    "topic": "16. Có khả năng làm gì",
+    "vietnameseSentence": "Những người thất nghiệp trong thời gian dài có khả năng gặp khó khăn hơn trong việc tìm một công việc mới.",
+    "sampleAnswer": "People who have been unemployed for a long time are likely to have difficulty in finding a new job.",
+    "formula": "Công thức: be likely + to + V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 196,
+    "topic": "17. Thấy khó làm gì",
+    "vietnameseSentence": "Nhiều người thấy khó tìm được một công việc ổn định nếu họ không có kỹ năng phù hợp.",
+    "sampleAnswer": "Many people find it hard to look for a stable job if they don’t have suitable skills.",
+    "formula": "Công thức: find it + adjective + to V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 197,
+    "topic": "18. Cho phép ai làm gì",
+    "vietnameseSentence": "Chính sách mới cho phép các doanh nghiệp nhỏ tiếp cận với nhiều nguồn hỗ trợ tài chính hơn.",
+    "sampleAnswer": "New policies allow small enterprises to have access to more sources of financial support.",
+    "formula": "Công thức: allow + somebody + to V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 198,
+    "topic": "19. Buộc ai làm gì",
+    "vietnameseSentence": "Giá nhà cao buộc nhiều gia đình trẻ phải chuyển đến những khu vực xa trung tâm thành phố.",
+    "sampleAnswer": "High housing prices force many young families to move to areas far from the city center.",
+    "formula": "Công thức: force + somebody + to V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 199,
+    "topic": "20. Khuyến khích việc gì",
+    "vietnameseSentence": "Chính phủ nên khuyến khích việc sử dụng năng lượng sạch trong các hộ gia đình.",
+    "sampleAnswer": "The government should encourage the use of clean energy in households.",
+    "formula": "Công thức: encourage + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 200,
+    "topic": "21. Giúp ai làm gì",
+    "vietnameseSentence": "Các chương trình đào tạo nghề có thể giúp người thất nghiệp tìm được công việc phù hợp hơn.",
+    "sampleAnswer": "Vocational training programmes can help the unemployed to find more suitable jobs.",
+    "formula": "Công thức: help + somebody + (to) V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 201,
+    "topic": "22. Khiến ai làm gì",
+    "vietnameseSentence": "Việc thiếu việc làm ổn định có thể khiến nhiều người trẻ rời quê lên thành phố.",
+    "sampleAnswer": "A lack of stable employment can make many young people move from rural areas to urban centers.",
+    "formula": "Công thức: make + somebody + V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 202,
+    "topic": "23. Khiến ai trở nên như thế nào",
+    "vietnameseSentence": "Những chính sách hỗ trợ phù hợp có thể khiến cuộc sống của người có thu nhập thấp trở nên dễ dàng hơn.",
+    "sampleAnswer": "Appropriate support policies can make life easier for low-income people.",
+    "formula": "Công thức: make + somebody + adjective",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 203,
+    "topic": "24. Ngăn điều gì xảy ra",
+    "vietnameseSentence": "Chính quyền cần thực hiện các biện pháp mạnh hơn để ngăn tội phạm xảy ra trong khu dân cư.",
+    "sampleAnswer": "The authority/government needs to take stronger/stricter measures to prevent/stop crime from occurring in the residential areas.",
+    "formula": "Công thức: stop/prevent + something + from + V-ing",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 204,
+    "topic": "25. Tập trung vào điều gì",
+    "vietnameseSentence": "Chính phủ nên tập trung vào việc cải thiện chất lượng giáo dục ở các vùng nông thôn.",
+    "sampleAnswer": "The government should focus on improving the quality of education in rural areas.",
+    "formula": "Công thức: focus + on + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 205,
+    "topic": "26. Đối phó với vấn đề",
+    "vietnameseSentence": "Chính quyền cần tìm cách hiệu quả hơn để đối phó với tình trạng dân số già hóa.",
+    "sampleAnswer": "The governments need to find more effective ways to deal with the ageing population.",
+    "formula": "Công thức: deal with + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": true
+  },
+  {
+    "id": 206,
+    "topic": "27. Giải quyết vấn đề",
+    "vietnameseSentence": "Các nhà lãnh đạo cần đưa ra những giải pháp thực tế để giải quyết vấn đề thất nghiệp ở thanh niên.",
+    "sampleAnswer": "Leaders need to find practical solutions to address the unemployment issues among young people.",
+    "formula": "Công thức: solve/address + a problem",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 207,
+    "topic": "28. Đưa ra quyết định",
+    "vietnameseSentence": "Chính phủ cần đưa ra quyết định dựa trên nhu cầu thực tế của người dân.",
+    "sampleAnswer": "The government need to make a decision based on the actual needs of citizens.",
+    "formula": "Công thức: make + a decision",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 208,
+    "topic": "29. Đưa ra chính sách",
+    "vietnameseSentence": "Chính phủ đã đưa ra một chính sách mới nhằm hỗ trợ các gia đình có thu nhập thấp.",
+    "sampleAnswer": "The government has introduced a new policy to support low-income families.",
+    "formula": "Công thức: introduce/implement + a policy",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 209,
+    "topic": "30. Tăng cường điều gì",
+    "vietnameseSentence": "Chính phủ cần tăng cường các biện pháp bảo vệ trẻ em trên môi trường mạng.",
+    "sampleAnswer": "The government needs to strengthen measures to protect children online.",
+    "formula": "Công thức: strengthen + something",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 210,
+    "topic": "31. Giảm nguy cơ",
+    "vietnameseSentence": "Giáo dục tốt có thể giúp giảm nguy cơ thanh thiếu niên tham gia vào các hoạt động phạm pháp.",
+    "sampleAnswer": "Good education can help reduce the risk of young people becoming involved in illegal activities.",
+    "formula": "Công thức: reduce + the risk of + something/V-ing",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 211,
+    "topic": "32. Đóng vai trò trong điều gì",
+    "vietnameseSentence": "Giáo dục đóng một vai trò quan trọng trong việc giảm khoảng cách giàu nghèo.",
+    "sampleAnswer": "Education plays a crucial/vital role in reducing the gap between the rich and the poor.",
+    "formula": "Công thức: play a role + in + something/V-ing",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 212,
+    "topic": "33. Có trách nhiệm làm gì",
+    "vietnameseSentence": "Mỗi công dân có trách nhiệm bảo vệ môi trường và giữ gìn không gian công cộng.",
+    "sampleAnswer": "Each citizen has a responsibility to protect the environment and keep public spaces cleaner and safer.",
+    "formula": "Công thức: have a responsibility + to V",
+    "hint": null,
+    "sourceFile": "Translation 79",
+    "needsReview": false
+  },
+  {
+    "id": 213,
+    "topic": "2. Technology has + V3/ed + impact/effect + on + N",
+    "vietnameseSentence": "Công nghệ đã có ảnh hưởng lớn đến cách mọi người giao tiếp với nhau.",
+    "sampleAnswer": "Technology has had a significant impact/effect on the way we communicate with each other.",
+    "formula": "Giải nghĩa: Công nghệ đã có ảnh hưởng/tác động đến...",
+    "hint": "CÂU 1",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 214,
+    "topic": "4. S + help + O + (to) V",
+    "vietnameseSentence": "Điện thoại thông minh giúp mọi người giữ liên lạc với gia đình và bạn bè dễ dàng hơn.",
+    "sampleAnswer": "Smartphones help people to stay connected to (keep in touch with) their family and friends more easily.",
+    "formula": "Giải nghĩa: Giúp ai làm gì.",
+    "hint": "CÂU 2",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 215,
+    "topic": "6. S + allow + O + to V",
+    "vietnameseSentence": "Internet cho phép sinh viên tiếp cận một lượng lớn thông tin chỉ trong vài giây.",
+    "sampleAnswer": "The Internet allows students to access a large amount of information within seconds.",
+    "formula": "Giải nghĩa: Cho phép ai làm gì.",
+    "hint": "CÂU 3",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 216,
+    "topic": "8. S + be used to + V",
+    "vietnameseSentence": "Trí tuệ nhân tạo đang được sử dụng để hỗ trợ các bác sĩ trong việc phát hiện bệnh.",
+    "sampleAnswer": "Artificial Intelligence is being used to help doctors detect diseases.",
+    "formula": "Giải nghĩa: Được sử dụng để làm một việc gì đó.",
+    "hint": "CÂU 4",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 217,
+    "topic": "10. S + become + increasingly + adj",
+    "vietnameseSentence": "Các khóa học trực tuyến ngày càng trở nên phổ biến đối với sinh viên.",
+    "sampleAnswer": "Online courses become increasingly popular among students.",
+    "formula": "Giải nghĩa: Ngày càng trở nên...",
+    "hint": "CÂU 5",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 218,
+    "topic": "12. S + play + an important role + in + N/V-ing",
+    "vietnameseSentence": "Khoa học đóng một vai trò quan trọng trong việc cải thiện chất lượng cuộc sống.",
+    "sampleAnswer": "Science plays an important role in improving/enhancing the quality of life.",
+    "formula": "Giải nghĩa: Đóng một vai trò quan trọng trong việc gì.",
+    "hint": "CÂU 6",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 219,
+    "topic": "14. S + lead to + N/V-ing",
+    "vietnameseSentence": "Những tiến bộ trong công nghệ đã dẫn đến nhiều thay đổi trong giáo dục.",
+    "sampleAnswer": "Advances in technology have led to many changes in education.",
+    "formula": "Giải nghĩa: Dẫn đến một kết quả hoặc sự thay đổi nào đó.",
+    "hint": "CÂU 7",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 220,
+    "topic": "16. S + make + N + adj",
+    "vietnameseSentence": "Các ứng dụng học tập làm cho việc học ngoại ngữ trở nên dễ dàng hơn.",
+    "sampleAnswer": "Learning applications makes studying foreign languages easier.",
+    "formula": "Giải nghĩa: Làm cho cái gì trở nên như thế nào.",
+    "hint": "CÂU 8",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 221,
+    "topic": "18. S + be able to + V",
+    "vietnameseSentence": "Ngày nay, các nhà khoa học có thể nghiên cứu dữ liệu nhanh hơn trước.",
+    "sampleAnswer": "Today, scientists are able to study/analyse data more quickly than before. (much faster than in the past)",
+    "formula": "Giải nghĩa: Có khả năng làm gì.",
+    "hint": "CÂU 9",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 222,
+    "topic": "20. S + collect/gather + information/data + about + N",
+    "vietnameseSentence": "Các nhà khoa học đang thu thập dữ liệu về sự thay đổi của khí hậu.",
+    "sampleAnswer": "Scientists are collecting/gathering data about climate change.",
+    "formula": "Giải nghĩa: Thu thập thông tin/dữ liệu về một vấn đề hoặc đối tượng.",
+    "hint": "CÂU 10",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 223,
+    "topic": "22. S + conduct/carry out + research + on + N",
+    "vietnameseSentence": "Các nhà khoa học đang tiến hành nghiên cứu về tác động của ô nhiễm không khí.",
+    "sampleAnswer": "Scientists are carrying out research on the impacts/effects of air pollution.",
+    "formula": "Giải nghĩa: Tiến hành nghiên cứu về một chủ đề.",
+    "hint": "CÂU 11",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 224,
+    "topic": "24. S + focus on + N/V-ing",
+    "vietnameseSentence": "Nghiên cứu này tập trung vào cách con người sử dụng công nghệ trong cuộc sống hàng ngày.",
+    "sampleAnswer": "This research focuses on how people use technology in their daily life.",
+    "formula": "Giải nghĩa: Tập trung vào một vấn đề hoặc hoạt động.",
+    "hint": "CÂU 12",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 225,
+    "topic": "26. S + try/attempt + to V",
+    "vietnameseSentence": "Các nhà khoa học đang cố gắng tìm ra nguyên nhân của căn bệnh này.",
+    "sampleAnswer": "Scientists are trying to find out / identify / discover the cause of this disease.",
+    "formula": "Giải nghĩa: Cố gắng làm gì.",
+    "hint": "CÂU 13",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 226,
+    "topic": "28. S + find a way to + V",
+    "vietnameseSentence": "Các nhà nghiên cứu đang tìm cách giảm lượng rác thải nhựa.",
+    "sampleAnswer": "Researchers are finding a way to reduce plastic waste.",
+    "formula": "Giải nghĩa: Tìm ra một cách để làm gì.",
+    "hint": "CÂU 14",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 227,
+    "topic": "30. S + help + solve/deal with + N",
+    "vietnameseSentence": "Công nghệ mới có thể giúp chúng ta giải quyết một số vấn đề môi trường.",
+    "sampleAnswer": "New technologies can help solve/address/deal with environmental problems.",
+    "formula": "Giải nghĩa: Giúp giải quyết/xử lý một vấn đề.",
+    "hint": "CÂU 15",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 228,
+    "topic": "32. S + improve + N",
+    "vietnameseSentence": "Những phát minh mới có thể cải thiện chất lượng cuộc sống của hàng triệu người.",
+    "sampleAnswer": "New inventions can improve the quality of life for millions of people.",
+    "formula": "Giải nghĩa: Cải thiện hoặc làm cho điều gì tốt hơn.",
+    "hint": "CÂU 16",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 229,
+    "topic": "34. S + be believed/thought/considered + to V",
+    "vietnameseSentence": "Trí tuệ nhân tạo được cho là sẽ thay đổi nhiều ngành nghề trong tương lai.",
+    "sampleAnswer": "Artificial Intelligence is believed to change/transform many jobs (industries) in the future.",
+    "formula": "Giải nghĩa: Được tin rằng/được cho là...",
+    "hint": "CÂU 17",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 230,
+    "topic": "36. S + have an effect/impact on + N",
+    "vietnameseSentence": "Biến đổi khí hậu có tác động nghiêm trọng đến môi trường.",
+    "sampleAnswer": "Climate change has had a serious impact/effect on the environment.",
+    "formula": "Giải nghĩa: Có ảnh hưởng hoặc tác động đến điều gì.",
+    "hint": "CÂU 18",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 231,
+    "topic": "38. S + be based on + N",
+    "vietnameseSentence": "Kết luận của nghiên cứu này dựa trên dữ liệu được thu thập từ hàng nghìn người.",
+    "sampleAnswer": "The conclusion of this study is based on data collected/gathered from thousands of people/participants.",
+    "formula": "Giải nghĩa: Được dựa trên thông tin, bằng chứng hoặc ý tưởng nào đó.",
+    "hint": "CÂU 19",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 232,
+    "topic": "40. S + depend on + N",
+    "vietnameseSentence": "Kết quả của thí nghiệm phụ thuộc vào nhiều yếu tố khác nhau.",
+    "sampleAnswer": "The result/findings/outcome of the experiment depends on many different factors.",
+    "formula": "Giải nghĩa: Phụ thuộc vào một yếu tố hoặc điều kiện nào đó.",
+    "hint": "CÂU 20",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 233,
+    "topic": "42. S + have access to + N",
+    "vietnameseSentence": "Sinh viên ngày nay có thể tiếp cận nhiều nguồn tài liệu học tập trực tuyến.",
+    "sampleAnswer": "Students nowadays can have access to many online learning resources.",
+    "formula": "Giải nghĩa: Có quyền/khả năng tiếp cận hoặc truy cập thứ gì.",
+    "hint": "CÂU 21",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 234,
+    "topic": "44. S + spend + time + V-ing",
+    "vietnameseSentence": "Nhiều người trẻ dành nhiều thời gian sử dụng mạng xã hội mỗi ngày.",
+    "sampleAnswer": "Many young people spend a lot of time using social media every day.",
+    "formula": "Giải nghĩa: Dành thời gian để làm gì.",
+    "hint": "CÂU 22",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 235,
+    "topic": "46. S + be at risk of + V-ing",
+    "vietnameseSentence": "Những người thường xuyên chia sẻ thông tin cá nhân có nguy cơ bị lừa đảo trực tuyến.",
+    "sampleAnswer": "People who often share their personal information are at risk of being scammed.",
+    "formula": "Giải nghĩa: Có nguy cơ gặp phải hoặc xảy ra điều gì.",
+    "hint": "CÂU 23",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 236,
+    "topic": "48. S + protect + O + from + N/V-ing",
+    "vietnameseSentence": "Mật khẩu mạnh có thể bảo vệ tài khoản của bạn khỏi các cuộc tấn công trực tuyến.",
+    "sampleAnswer": "A strong password can protect/safeguard your account from cyberattacks.",
+    "formula": "Giải nghĩa: Bảo vệ ai/cái gì khỏi một nguy cơ hoặc vấn đề.",
+    "hint": "CÂU 24",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 237,
+    "topic": "50. S + replace + A + with + B",
+    "vietnameseSentence": "Nhiều công ty đang thay thế các tài liệu giấy bằng tài liệu kỹ thuật số.",
+    "sampleAnswer": "Many companies are replacing paper documents with digital ones/alternatives.",
+    "formula": "Giải nghĩa: Thay thế A bằng B.",
+    "hint": "CÂU 25",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 238,
+    "topic": "52. Instead of + V-ing, S + V",
+    "vietnameseSentence": "Thay vì đến thư viện, nhiều sinh viên tìm tài liệu trên Internet.",
+    "sampleAnswer": "Instead of going to the library, many students look for / seek study materials on the Internet.",
+    "formula": "Giải nghĩa: Thay vì làm việc A, ai đó làm việc B.",
+    "hint": "CÂU 26",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 239,
+    "topic": "54. S + be/get used to + V-ing",
+    "vietnameseSentence": "Nhiều người đã quen với việc sử dụng điện thoại để thanh toán.",
+    "sampleAnswer": "Many people are used to using their smartphones to pay.",
+    "formula": "Giải nghĩa: Quen với việc làm gì.",
+    "hint": "CÂU 27",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 240,
+    "topic": "56. S + spend too much time + V-ing",
+    "vietnameseSentence": "Một số học sinh dành quá nhiều thời gian chơi trò chơi điện tử.",
+    "sampleAnswer": "Some students spend too much time playing computer games.",
+    "formula": "Giải nghĩa: Dành quá nhiều thời gian làm gì.",
+    "hint": "CÂU 28",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 241,
+    "topic": "58. S + be beneficial to + N",
+    "vietnameseSentence": "Công nghệ giáo dục có thể có lợi cho những học sinh sống ở vùng xa.",
+    "sampleAnswer": "Educational technology can be beneficial to students living in remote areas.",
+    "formula": "Giải nghĩa: Có lợi cho ai/cái gì.",
+    "hint": "CÂU 29",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 242,
+    "topic": "60. S + have both + advantages and disadvantages",
+    "vietnameseSentence": "Mạng xã hội có cả ưu điểm và nhược điểm đối với người trẻ.",
+    "sampleAnswer": "Social media has both advantages and disadvantages for young people",
+    "formula": "Giải nghĩa: Có cả những mặt tích cực và tiêu cực.",
+    "hint": "CÂU 30",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 243,
+    "topic": "62. S + be designed to + V",
+    "vietnameseSentence": "Robot này được thiết kế để giúp người già thực hiện các công việc hàng ngày.",
+    "sampleAnswer": "This robot is designed to help elderly people to do their daily tasks.",
+    "formula": "Giải nghĩa: Được thiết kế nhằm mục đích làm gì.",
+    "hint": "CÂU 31",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 244,
+    "topic": "64. S + be capable of + V-ing",
+    "vietnameseSentence": "Một số robot hiện đại có khả năng thực hiện những công việc đơn giản.",
+    "sampleAnswer": "Some modern robots are capable of performing easy/simple tasks",
+    "formula": "Giải nghĩa: Có khả năng thực hiện một việc gì.",
+    "hint": "CÂU 32",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 245,
+    "topic": "66. S + be likely to + V",
+    "vietnameseSentence": "Công nghệ này có khả năng trở nên phổ biến hơn trong vài năm tới.",
+    "sampleAnswer": "This technology is likely to become more popular over the next few years.",
+    "formula": "S + be unlikely to V",
+    "hint": "Giải nghĩa: Có khả năng một điều gì đó sẽ xảy ra.",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 246,
+    "topic": "68. S + be expected to + V",
+    "vietnameseSentence": "Số lượng người sử dụng các dịch vụ trực tuyến dự kiến sẽ tiếp tục tăng.",
+    "sampleAnswer": "The number of people who use online services is expected to keep increasing.",
+    "formula": "Giải nghĩa: Được dự đoán/kỳ vọng sẽ xảy ra.",
+    "hint": "CÂU 34",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 247,
+    "topic": "70. S + be developed to + V",
+    "vietnameseSentence": "Phần mềm mới được phát triển để giúp các doanh nghiệp quản lý dữ liệu hiệu quả hơn.",
+    "sampleAnswer": "The new software is developed to help enterprises to manage/control data more efficiently.",
+    "formula": "Giải nghĩa: Được phát triển nhằm mục đích làm gì.",
+    "hint": "CÂU 35",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 248,
+    "topic": "72. S + provide + sb + with + st",
+    "vietnameseSentence": "Internet cung cấp cho người học nhiều cơ hội để tiếp cận kiến thức mới.",
+    "sampleAnswer": "The Internet provides learners with many opportunities to access new knowledge.",
+    "formula": "S + provide + st for sb",
+    "hint": "Giải nghĩa: Cung cấp cho ai một thứ gì đó.",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 249,
+    "topic": "74. S + enable + O + to V",
+    "vietnameseSentence": "Các công cụ AI cho phép học sinh kiểm tra và cải thiện bài viết của mình.",
+    "sampleAnswer": "AI-powered tools enable students to check and improve their writing.",
+    "formula": "Giải nghĩa: Cho phép/giúp ai có khả năng làm gì.",
+    "hint": "CÂU 37",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 250,
+    "topic": "76. S + invest + in + N",
+    "vietnameseSentence": "Nhiều quốc gia đang đầu tư vào nghiên cứu năng lượng sạch.",
+    "sampleAnswer": "Many countries are investing in clean energy research.",
+    "formula": "Giải nghĩa: Đầu tư tiền bạc, thời gian hoặc nguồn lực vào một lĩnh vực.",
+    "hint": "CÂU 38",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 251,
+    "topic": "78. S + contribute to + N/V-ing",
+    "vietnameseSentence": "Công nghệ xanh có thể góp phần giảm ô nhiễm môi trường.",
+    "sampleAnswer": "Green technology can contribute to reducing environmental pollution",
+    "formula": "Giải nghĩa: Góp phần tạo ra một kết quả hoặc sự thay đổi.",
+    "hint": "CÂU 39",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 252,
+    "topic": "80. S + reduce/reduce the need for + N",
+    "vietnameseSentence": "Năng lượng tái tạo có thể giúp giảm sự phụ thuộc vào nhiên liệu hóa thạch.",
+    "sampleAnswer": "Renewable energy can help reduce the need for fossil fuels.",
+    "formula": "Giải nghĩa: Giảm sự cần thiết hoặc phụ thuộc vào một thứ gì đó.",
+    "hint": "CÂU 40",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 253,
+    "topic": "82. Although + S + V, S + V",
+    "vietnameseSentence": "Mặc dù công nghệ mang lại nhiều lợi ích, nó cũng tạo ra một số vấn đề mới.",
+    "sampleAnswer": "Although technology offers many/numerous benefits, it also creates some (a number of) new problems/issues.",
+    "formula": "Giải nghĩa: Mặc dù... nhưng...",
+    "hint": "CÂU 41",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 254,
+    "topic": "84. While + S + V, S + V",
+    "vietnameseSentence": "Trong khi công nghệ giúp chúng ta tiết kiệm thời gian, nó cũng có thể khiến chúng ta phụ thuộc vào thiết bị.",
+    "sampleAnswer": "While technology helps us save time, it can also make us dependent on devices.",
+    "formula": "Giải nghĩa: Trong khi một điều xảy ra thì một điều khác cũng xảy ra hoặc trái ngược.",
+    "hint": "CÂU 42",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 255,
+    "topic": "86. Compared with/to + N, S + V",
+    "vietnameseSentence": "So với trước đây, việc tìm kiếm thông tin đã trở nên nhanh chóng và dễ dàng hơn.",
+    "sampleAnswer": "Compared to/with the past, searching for (finding) information has become faster and easier.",
+    "formula": "Giải nghĩa: So với một đối tượng hoặc thời điểm khác.",
+    "hint": "CÂU 43",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 256,
+    "topic": "88. The + comparative + S + V, the + comparative + S + V",
+    "vietnameseSentence": "Công nghệ càng phát triển, con người càng có nhiều cách để kết nối với nhau.",
+    "sampleAnswer": "The more technology develops, the more ways people have to connect with each other.",
+    "formula": "Giải nghĩa: Càng... thì càng...",
+    "hint": "CÂU 44",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 257,
+    "topic": "90. In my opinion, S + V",
+    "vietnameseSentence": "Theo tôi, công nghệ nên được sử dụng để hỗ trợ con người thay vì thay thế hoàn toàn họ.",
+    "sampleAnswer": "In my opinion, technology should be used to support people rather than completely replace them.",
+    "formula": "Giải nghĩa: Theo quan điểm cá nhân của tôi.",
+    "hint": "CÂU 45",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 258,
+    "topic": "93. The purpose of + N/V-ing + is to + V",
+    "vietnameseSentence": "Mục đích của công nghệ này là giúp người dùng tiết kiệm thời gian và năng lượng.",
+    "sampleAnswer": "The purpose of this technology is to help users save time and energy.",
+    "formula": "Giải nghĩa: Mục đích của việc gì là làm gì.",
+    "hint": "CÂU 46",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 259,
+    "topic": "95. It is important for + O + to V",
+    "vietnameseSentence": "Điều quan trọng đối với người sử dụng Internet là bảo vệ thông tin cá nhân của họ.",
+    "sampleAnswer": "What matters most is that the Internet users should protect their personal information.",
+    "formula": "Giải nghĩa: Điều quan trọng đối với ai đó là làm gì.",
+    "hint": "CÂU 47",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 260,
+    "topic": "97. There are several reasons why + S + V",
+    "vietnameseSentence": "Có một số lý do tại sao ngày càng nhiều người sử dụng các ứng dụng học trực tuyến.",
+    "sampleAnswer": "There are several reasons why more and more people are using online studying applications.",
+    "formula": "Giải nghĩa: Có một số lý do giải thích tại sao một điều gì đó xảy ra.",
+    "hint": "CÂU 48",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 261,
+    "topic": "99. S + provide/give + O + an opportunity/chance + to V",
+    "vietnameseSentence": "Công nghệ hiện đại mang lại cho học sinh cơ hội học tập theo cách phù hợp với họ.",
+    "sampleAnswer": "Modern technology gives/provides/offers students an opportunity to learn in ways that suit their needs.",
+    "formula": "Giải nghĩa: Mang lại cho ai cơ hội làm gì.",
+    "hint": "CÂU 49",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 262,
+    "topic": "101. S + can change the way + S + V",
+    "vietnameseSentence": "Những tiến bộ trong khoa học và công nghệ có thể thay đổi cách chúng ta sống và làm việc trong tương lai.",
+    "sampleAnswer": "Scientific and technological advancements",
+    "formula": "Giải nghĩa: Có thể thay đổi cách chúng ta làm một việc gì đó.",
+    "hint": "CÂU 50",
+    "sourceFile": "Translation 80",
+    "needsReview": true
+  },
+  {
+    "id": 263,
+    "topic": "2. Have difficulty",
+    "vietnameseSentence": "Một số người gặp khó khăn trong việc tìm một công việc phù hợp.",
+    "sampleAnswer": "Some people have difficulty (in) finding a suitable/appropriate job.",
+    "formula": "Công thức: S + have difficulty (in) + V-ing",
+    "hint": "Giải nghĩa: Gặp khó khăn khi thực hiện một hành động.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 264,
+    "topic": "3. Do not know what to do",
+    "vietnameseSentence": "Nhiều học sinh không biết phải làm gì khi họ cảm thấy căng thẳng.",
+    "sampleAnswer": "Many students do not know what to do when they feel stressed",
+    "formula": "Công thức: S + do not know what to + V",
+    "hint": "Giải nghĩa: Không biết nên làm gì trong một tình huống.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 265,
+    "topic": "4. Give advice on",
+    "vietnameseSentence": "Cha mẹ nên đưa cho con cái lời khuyên về việc sử dụng internet.",
+    "sampleAnswer": "Parents should give their kids/children advice/guidance on using the Internet.",
+    "formula": "Công thức: S + give + O + advice on + N",
+    "hint": "Giải nghĩa: Đưa cho ai lời khuyên về một vấn đề.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 266,
+    "topic": "5. Advise someone to do something",
+    "vietnameseSentence": "Bác sĩ khuyên bệnh nhân tập thể dục thường xuyên.",
+    "sampleAnswer": "Doctors advise patients to exercise regularly",
+    "formula": "Công thức: S + advise + O + to V",
+    "hint": "Giải nghĩa: Khuyên ai đó làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 267,
+    "topic": "6. Advise someone not to do something",
+    "vietnameseSentence": "Giáo viên khuyên học sinh không nên thức quá khuya.",
+    "sampleAnswer": "Teachers advise students not to stay up too late.",
+    "formula": "Công thức: S + advise + O + not to V",
+    "hint": "Giải nghĩa: Khuyên ai đó không nên làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 268,
+    "topic": "7. Should do something",
+    "vietnameseSentence": "Bạn nên nói chuyện với bố mẹ về vấn đề này.",
+    "sampleAnswer": "You should talk to your parents about this issue.",
+    "formula": "Công thức: S + should + V",
+    "hint": "Giải nghĩa: Đưa ra lời khuyên trực tiếp rằng ai đó nên làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 269,
+    "topic": "8. Should not do something",
+    "vietnameseSentence": "Mọi người không nên dành quá nhiều thời gian trên mạng xã hội.",
+    "sampleAnswer": "People should not spend too much time on social media.",
+    "formula": "Công thức: S + should not + V",
+    "hint": "Giải nghĩa: Khuyên ai đó không nên làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 270,
+    "topic": "9. Had better",
+    "vietnameseSentence": "Bạn tốt hơn nên giải quyết vấn đề này sớm.",
+    "sampleAnswer": "You had better solve this problem soon.",
+    "formula": "Công thức: S + had better + V",
+    "hint": "Giải nghĩa: Khuyên ai đó nên làm gì, thường mang tính cảnh báo.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 271,
+    "topic": "10. Had better not",
+    "vietnameseSentence": "Bạn tốt hơn không nên bỏ qua vấn đề này.",
+    "sampleAnswer": "You had better not ignore this issue/problem",
+    "formula": "Công thức: S + had better not + V",
+    "hint": "Giải nghĩa: Khuyên hoặc cảnh báo ai đó không nên làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 272,
+    "topic": "11. Need to do something",
+    "vietnameseSentence": "Học sinh cần tìm cách cân bằng việc học và nghỉ ngơi.",
+    "sampleAnswer": "Students need to find a way to balance study and rest.",
+    "formula": "Công thức: S + need to + V",
+    "hint": "Giải nghĩa: Diễn tả sự cần thiết phải làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 273,
+    "topic": "12. Do not need to",
+    "vietnameseSentence": "Bạn không cần phải giải quyết mọi vấn đề một mình.",
+    "sampleAnswer": "You do not need to solve every problem/issue by yourself",
+    "formula": "Công thức: S + do not need to + V",
+    "hint": "Giải nghĩa: Không cần thiết phải làm gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 274,
+    "topic": "13. Make sure",
+    "vietnameseSentence": "Cha mẹ cần đảm bảo rằng con cái ngủ đủ giấc.",
+    "sampleAnswer": "Parents need to make sure that their children get enough sleep",
+    "formula": "Công thức: S + need to make sure + S + V",
+    "hint": "Giải nghĩa: Cần đảm bảo rằng một điều gì đó xảy ra hoặc đúng.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 275,
+    "topic": "14. Try to do something",
+    "vietnameseSentence": "Chúng ta nên cố gắng giải quyết vấn đề này cùng nhau.",
+    "sampleAnswer": "We should try to solve this problem/issue together.",
+    "formula": "Công thức: S + try to + V",
+    "hint": "Giải nghĩa: Cố gắng thực hiện một hành động.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 276,
+    "topic": "15. Find a way to",
+    "vietnameseSentence": "Chính phủ cần tìm cách giảm tình trạng tắc nghẽn giao thông.",
+    "sampleAnswer": "The government needs to find a way to reduce traffic congestion.",
+    "formula": "Công thức: S + find a way to + V",
+    "hint": "Giải nghĩa: Tìm một phương pháp để giải quyết hoặc thực hiện điều gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 277,
+    "topic": "16. Help someone do something",
+    "vietnameseSentence": "Gia đình có thể giúp trẻ giải quyết những vấn đề này.",
+    "sampleAnswer": "Families can help children to solve these problems.",
+    "formula": "Công thức: S + help + O + (to) V",
+    "hint": "Giải nghĩa: Giúp ai đó thực hiện một việc.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 278,
+    "topic": "17. Solve / deal with",
+    "vietnameseSentence": "Chúng ta cần giải quyết vấn đề này càng sớm càng tốt.",
+    "sampleAnswer": "We need to solve this problem/issue as soon as possible.",
+    "formula": "Công thức: S + solve/deal with + N",
+    "hint": "Giải nghĩa: Giải quyết hoặc xử lý một vấn đề.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 279,
+    "topic": "18. Cope with",
+    "vietnameseSentence": "Người trẻ cần học cách đối phó với áp lực.",
+    "sampleAnswer": "Young people need to learn how to cope with pressure.",
+    "formula": "Công thức: S + cope with + N",
+    "hint": "Giải nghĩa: Đối phó hoặc ứng phó với một vấn đề khó khăn.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 280,
+    "topic": "19. Deal with",
+    "vietnameseSentence": "Giáo viên biết cách xử lý những tình huống khó khăn.",
+    "sampleAnswer": "Teachers know how to deal with challenging/difficult situations.",
+    "formula": "Công thức: S + deal with + N",
+    "hint": "Giải nghĩa: Xử lý hoặc giải quyết một tình huống/vấn đề.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 281,
+    "topic": "20. Avoid doing something",
+    "vietnameseSentence": "Bạn nên tránh sử dụng điện thoại trước khi đi ngủ.",
+    "sampleAnswer": "You should avoid using your phone before going to bed.",
+    "formula": "Công thức: S + avoid + V-ing",
+    "hint": "Giải nghĩa: Tránh thực hiện một hành động.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 282,
+    "topic": "21. Prevent someone from doing something",
+    "vietnameseSentence": "Cha mẹ nên ngăn trẻ dành quá nhiều thời gian chơi game.",
+    "sampleAnswer": "Parents should prevent their children from spending too much time playing computer games.",
+    "formula": "Công thức: S + prevent + O + from + V-ing",
+    "hint": "Giải nghĩa: Ngăn ai đó hoặc điều gì đó thực hiện một hành động.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 283,
+    "topic": "22. Reduce the risk of",
+    "vietnameseSentence": "Tập thể dục thường xuyên có thể giảm nguy cơ mắc bệnh.",
+    "sampleAnswer": "Regular exercise can reduce the risk of developing diseases/health problems.",
+    "formula": "Công thức: S + reduce the risk of + V-ing/N",
+    "hint": "Giải nghĩa: Giảm nguy cơ một điều xấu xảy ra.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 284,
+    "topic": "23. Be at risk of",
+    "vietnameseSentence": "Những người ngủ không đủ có nguy cơ gặp các vấn đề về sức khỏe.",
+    "sampleAnswer": "People/Those who do not have/get enough sleep are at risk of developing health problems.",
+    "formula": "Công thức: S + be at risk of + V-ing",
+    "hint": "Giải nghĩa: Có nguy cơ gặp hoặc phải chịu một vấn đề.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 285,
+    "topic": "24. Be responsible for",
+    "vietnameseSentence": "Mỗi người nên chịu trách nhiệm về hành động của mình.",
+    "sampleAnswer": "Everyone should be responsible for his/her own actions.",
+    "formula": "Công thức: S + be responsible for + N/V-ing",
+    "hint": "Giải nghĩa: Chịu trách nhiệm về một việc hoặc hành động.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 286,
+    "topic": "25. Be a cause of",
+    "vietnameseSentence": "Thiếu ngủ có thể là nguyên nhân của nhiều vấn đề sức khỏe.",
+    "sampleAnswer": "A lack of sleep can be a cause of many health problems.",
+    "formula": "Công thức: S + be a cause of + N",
+    "hint": "Giải nghĩa: Là một trong những nguyên nhân gây ra vấn đề.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 287,
+    "topic": "26. Lead to",
+    "vietnameseSentence": "Áp lực quá lớn có thể dẫn đến các vấn đề về sức khỏe.",
+    "sampleAnswer": "Too much pressure can lead to many health problems",
+    "formula": "Công thức: S + lead to + N/V-ing",
+    "hint": "Giải nghĩa: Dẫn đến một kết quả hoặc vấn đề.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 288,
+    "topic": "27. Cause",
+    "vietnameseSentence": "Việc sử dụng điện thoại quá nhiều có thể gây ra các vấn đề về giấc ngủ.",
+    "sampleAnswer": "Excessive phone use can cause sleep-related problems",
+    "formula": "Công thức: S + cause + N",
+    "hint": "Giải nghĩa: Gây ra một vấn đề hoặc hậu quả.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 289,
+    "topic": "28. Result from",
+    "vietnameseSentence": "Nhiều vấn đề về sức khỏe là kết quả của lối sống không lành mạnh.",
+    "sampleAnswer": "Many health problems result from an unhealthy lifestyle.",
+    "formula": "Công thức: S + result from + N",
+    "hint": "Giải nghĩa: Là kết quả của một nguyên nhân nào đó.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 290,
+    "topic": "29. Be related to",
+    "vietnameseSentence": "Căng thẳng thường có liên quan đến áp lực công việc.",
+    "sampleAnswer": "Stress is often related to work pressure",
+    "formula": "Công thức: S + be related to + N",
+    "hint": "Giải nghĩa: Có mối liên hệ với một vấn đề hoặc yếu tố khác.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 291,
+    "topic": "30. Have an effect on",
+    "vietnameseSentence": "Thiếu ngủ có ảnh hưởng đến khả năng tập trung của học sinh.",
+    "sampleAnswer": "A lack of sleep has an effect on the students’ concentration.",
+    "formula": "Công thức: S + have an effect on + N",
+    "hint": "Giải nghĩa: Có ảnh hưởng hoặc tác động đến ai/cái gì.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 292,
+    "topic": "31. Make something worse",
+    "vietnameseSentence": "Việc bỏ qua vấn đề có thể làm tình hình trở nên tồi tệ hơn.",
+    "sampleAnswer": "Ignoring an issue can make the situation worse.",
+    "formula": "Công thức: S + make + N + worse",
+    "hint": "Giải nghĩa: Làm cho một vấn đề hoặc tình hình trở nên tồi tệ hơn.",
+    "sourceFile": "Translation 81",
+    "needsReview": true
+  },
+  {
+    "id": 293,
+    "topic": "1. BECOME FAMOUS OVERNIGHT",
+    "vietnameseSentence": "Cô ấy trở nên nổi tiếng chỉ sau một đêm sau khi video của cô ấy thu hút hàng triệu lượt xem.",
+    "sampleAnswer": "She became famous overnight after her video attracted millions of views.",
+    "formula": "S + became famous overnight after + S + V + O",
+    "hint": "Dùng để nói ai đó bất ngờ trở nên nổi tiếng sau một sự kiện hoặc hành động cụ thể.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 294,
+    "topic": "2. BE KNOWN FOR SOMETHING",
+    "vietnameseSentence": "Nam diễn viên này được biết đến rộng rãi với việc đóng những vai phức tạp, điều khiến anh ấy nhận được nhiều lời khen.",
+    "sampleAnswer": "This actor is widely known for playing complex roles, which has earned him a lot of praise.",
+    "formula": "S + is/are widely known for + V-ing + O, which + V + O",
+    "hint": "Dùng để giới thiệu điều khiến một người nổi tiếng và bổ sung thông tin bằng mệnh đề quan hệ.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 295,
+    "topic": "3. RISE TO FAME",
+    "vietnameseSentence": "Cô ấy trở nên nổi tiếng sau khi giành chiến thắng trong cuộc thi và đã có một sự nghiệp thành công kể từ đó.",
+    "sampleAnswer": "She rose to fame after winning the competition and she has had a successful career since then.",
+    "formula": "S + rose to fame after + V-ing + O, and + S + has/have + Vpp since then",
+    "hint": "Dùng để nói một người nổi tiếng sau một sự kiện và tiếp tục có thành công từ thời điểm đó.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 296,
+    "topic": "4. HAVE A HUGE FOLLOWING",
+    "vietnameseSentence": "Mặc dù không xuất hiện thường xuyên trên truyền hình, cô ấy vẫn có lượng người theo dõi khổng lồ trong giới trẻ.",
+    "sampleAnswer": "Although she doesn’t appear on television very often, she still has a huge following among young people.",
+    "formula": "Although + S + V, S + has/have + a huge following + among + N",
+    "hint": "Dùng để diễn tả sự tương phản giữa một đặc điểm và mức độ nổi tiếng của một người.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 297,
+    "topic": "5. ATTRACT PUBLIC ATTENTION",
+    "vietnameseSentence": "Nam ca sĩ này đã thu hút rất nhiều sự chú ý vì anh ấy thường chia sẻ cuộc sống cá nhân trên mạng xã hội.",
+    "sampleAnswer": "This singer has attracted a great deal of attention because he often shares his personal life on social media. (social networking platforms)",
+    "formula": "S + has/have attracted a great deal of attention because + S + V",
+    "hint": "Dùng để nói một người thu hút rất nhiều sự chú ý vì một lý do cụ thể.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 298,
+    "topic": "6. BE FOLLOWED BY MILLIONS",
+    "vietnameseSentence": "Cô ấy được hàng triệu người theo dõi trên Tiktok, nhiều người trong số họ thường bình luận về cuộc sống của cô ấy.",
+    "sampleAnswer": "She is followed by millions of people on Tiktok, many of whom often comment on her life.",
+    "formula": "S + is/are followed by + number + people, many of whom + V",
+    "hint": "Dùng bị động kết hợp với mệnh đề quan hệ để bổ sung thông tin về người theo dõi.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 299,
+    "topic": "7. INFLUENCE PEOPLE’S BEHAVIOUR",
+    "vietnameseSentence": "Những người nổi tiếng có ảnh hưởng lớn đến hành vi của người tiêu dùng, đặc biệt khi họ quảng bá các sản phẩm mới.",
+    "sampleAnswer": "Celebrities / Personalities have a strong influence on consumer behaviours, especially when they promote new products.",
+    "formula": "S + has/have + a strong influence on + N, especially when + S + V",
+    "hint": "Dùng để nói một người có ảnh hưởng lớn đến người khác, đặc biệt trong một tình huống cụ thể.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 300,
+    "topic": "8. USE FAME TO HELP OTHERS",
+    "vietnameseSentence": "Cô ấy sử dụng danh tiếng của mình để giúp đỡ trẻ em nghèo thay vì chỉ tập trung vào việc kiếm tiền.",
+    "sampleAnswer": "She uses her fame to help poor children rather than only focusing on earning/making money.",
+    "formula": "S + uses/used + his/her fame + to + V + O, rather than + V-ing",
+    "hint": "Dùng để nói một người sử dụng danh tiếng cho một mục đích cụ thể thay vì làm một việc khác.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 301,
+    "topic": "9. DEAL WITH THE PRESSURE OF FAME",
+    "vietnameseSentence": "Người nổi tiếng phải học cách đối phó với áp lực của danh tiếng vì nó có thể ảnh hưởng đến cuộc sống riêng tư của họ.",
+    "sampleAnswer": "Celebrities / Personalities have to deal with the pressure of fame, which can have an impact on their private lives.",
+    "formula": "S + has/have to + V, which can + V",
+    "hint": "Dùng để nói một người phải làm gì vì một áp lực nào đó và nêu thêm hệ quả.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 302,
+    "topic": "10. KEEP THEIR PRIVATE LIFE SECRET",
+    "vietnameseSentence": "Nhiều người nổi tiếng cố gắng giữ cuộc sống riêng tư kín đáo để họ có thể dành nhiều thời gian hơn cho gia đình.",
+    "sampleAnswer": "Many people in the public eyes try to keep their private lives secret so that they can make more time for their family.",
+    "formula": "S + tries/try to + V + so that + S + can + V",
+    "hint": "Dùng để diễn tả mục đích của một hành động, đặc biệt khi nói về đời tư của người nổi tiếng.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 303,
+    "topic": "11. BE CONSTANTLY FOLLOWED",
+    "vietnameseSentence": "Một số người nổi tiếng liên tục bị các tay săn ảnh theo dõi, điều này khiến họ cảm thấy không thoải mái.",
+    "sampleAnswer": "Some celebrities are constantly being followed/photographed by paparazzi, which makes them uncomfortable.",
+    "formula": "S + is/are constantly being + V3 + by + N, which makes + O + adjective",
+    "hint": "Dùng hiện tại tiếp diễn bị động để nhấn mạnh một việc thường xuyên xảy ra và gây ảnh hưởng.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 304,
+    "topic": "12. FACE CRITICISM ONLINE",
+    "vietnameseSentence": "Mỗi khi người nổi tiếng mắc lỗi, họ có xu hướng nhận nhiều lời chỉ trích, đặc biệt nếu sự việc được lan truyền trên mạng.",
+    "sampleAnswer": "Whenever celebrities make mistakes, they tend to receive/face a lot of criticism, especially if the incident goes viral (spreads online)",
+    "formula": "Whenever + S + V, S + tends to + V, especially if + S + V",
+    "hint": "Dùng để nói một hành động thường xảy ra mỗi khi có một tình huống nhất định.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 305,
+    "topic": "13. BE INFLUENCED BY CELEBRITIES",
+    "vietnameseSentence": "Một số người dễ bị ảnh hưởng bởi người nổi tiếng, đặc biệt khi họ quảng bá những sản phẩm đang thịnh hành.",
+    "sampleAnswer": "Some people are easily influenced by celebrities/personalities, particularly when they promote products which are trending/popular.",
+    "formula": "Some people + are easily influenced by + N, particularly when + S + V",
+    "hint": "Dùng bị động để nói một số người dễ bị tác động bởi người nổi tiếng trong những trường hợp cụ thể.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 306,
+    "topic": "14. MAKE A DIFFERENCE TO SOCIETY",
+    "vietnameseSentence": "Bằng cách sử dụng danh tiếng để nâng cao nhận thức, người nổi tiếng có thể tạo ra sự thay đổi tích cực cho xã hội, điều này có thể truyền cảm hứng cho nhiều người khác.",
+    "sampleAnswer": "By using fame to raise awareness, celebrities can make a positive difference to society, which can inspire many others",
+    "formula": "By + V-ing + O, S + can + V + O, which + V + O",
+    "hint": "Dùng “By + V-ing” để nói cách một người có thể tạo ra tác động tích cực, sau đó bổ sung thông tin bằng mệnh đề quan hệ.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 307,
+    "topic": "15. FAME DOES NOT NECESSARILY MEAN HAPPINESS",
+    "vietnameseSentence": "Mặc dù người nổi tiếng có thể có rất nhiều tiền và người hâm mộ, điều đó không nhất thiết có nghĩa là họ luôn hạnh phúc.",
+    "sampleAnswer": "Although celebrities can earn/make a lot of money and many fans, it does not necessarily mean they are always happy.",
+    "formula": "Although + S + may + V + O, it does not necessarily mean that + S + V",
+    "hint": "Dùng để diễn tả sự tương phản và nhấn mạnh rằng một điều không nhất thiết dẫn đến một kết quả khác.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 308,
+    "topic": "16. BECOME A ROLE MODEL",
+    "vietnameseSentence": "Cô ấy đã trở thành hình mẫu cho nhiều người trẻ vì cô ấy luôn sử dụng danh tiếng để giúp đỡ cộng đồng.",
+    "sampleAnswer": "She has become a role model for many young people because she always uses her fame to help the community.",
+    "formula": "S + has/have become + a role model for + N + because + S + V",
+    "hint": "Dùng để nói một người trở thành hình mẫu cho người khác nhờ những hành động hoặc phẩm chất cụ thể.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 309,
+    "topic": "17. USE SOCIAL MEDIA EFFECTIVELY",
+    "vietnameseSentence": "Nam ca sĩ sử dụng mạng xã hội không chỉ để quảng bá âm nhạc mà còn để kết nối với người hâm mộ.",
+    "sampleAnswer": "The singer uses his social media not only to promote his music but also connect with his fans.",
+    "formula": "S + uses/used + social media + not only to + V + but also to + V",
+    "hint": "Dùng để nói một người sử dụng mạng xã hội cho hai mục đích khác nhau.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 310,
+    "topic": "18. BE PRAISED FOR SOMETHING",
+    "vietnameseSentence": "Nữ diễn viên đã nhận được nhiều lời khen vì thể hiện một nhân vật rất khó một cách thuyết phục.",
+    "sampleAnswer": "The actress has been widely praised for performing a very difficult character/role convincingly.",
+    "formula": "S + has/have been widely praised for + V-ing + O",
+    "hint": "Dùng bị động để nói một người nhận được nhiều lời khen vì một hành động hoặc thành tích.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 311,
+    "topic": "19. BE CRITICISED FOR SOMETHING",
+    "vietnameseSentence": "Anh ấy đã bị chỉ trích vì quảng bá sản phẩm này, mặc dù anh ấy nói rằng mình đã kiểm tra thông tin trước đó.",
+    "sampleAnswer": "He has been criticised for promoting this product, although he said he had checked the information beforehand.",
+    "formula": "S + has/have been criticised for + V-ing + O, although + S + V",
+    "hint": "Dùng để nói một người bị chỉ trích vì điều gì, đồng thời đưa ra thông tin đối lập.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 312,
+    "topic": "20. RESPOND TO NEGATIVE COMMENTS",
+    "vietnameseSentence": "Thay vì tranh cãi với những người chỉ trích, cô ấy chọn giải thích vấn đề một cách bình tĩnh.",
+    "sampleAnswer": "Instead of arguing with her critics, she chose to explain the problem calmly.",
+    "formula": "Instead of + V-ing, S + chose to + V + O",
+    "hint": "Dùng để nói ai đó lựa chọn một hành động thay vì một hành động khác.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 313,
+    "topic": "21. KEEP UP WITH PUBLIC EXPECTATIONS",
+    "vietnameseSentence": "Nhiều người nổi tiếng thấy khó đáp ứng kỳ vọng của công chúng vì mọi người luôn mong đợi họ hoàn hảo.",
+    "sampleAnswer": "Many celebrities find it hard to live up to expectations of the public because they always expect them to be perfect.",
+    "formula": "S + finds it + adjective + to + V + because + S + V",
+    "hint": "Dùng “find it + adjective + to V” để diễn tả việc một hành động khó, dễ hoặc quan trọng đối với ai đó.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 314,
+    "topic": "22. BALANCE WORK AND FAMILY",
+    "vietnameseSentence": "Cô ấy đã xoay xở để cân bằng sự nghiệp và gia đình trong khi vẫn dành thời gian cho người hâm mộ.",
+    "sampleAnswer": "She has managed to balance her work and family while she still makes time for her fans.",
+    "formula": "S + has/have managed to + V + while + V-ing + O",
+    "hint": "Dùng để nói ai đó đã xoay xở thành công để làm hai việc cùng lúc.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 315,
+    "topic": "23. PROTECT THEIR CHILDREN",
+    "vietnameseSentence": "Một số người nổi tiếng từ chối chia sẻ ảnh của con cái vì họ không muốn con mình bị chú ý quá nhiều.",
+    "sampleAnswer": "Some famous people (celebrities) refuse to share their children’s photos because they do not want their children to receive too much attention.",
+    "formula": "S + refuses/refuse to + V + because + S + does not want + O + to + V",
+    "hint": "Dùng để nói ai đó từ chối làm gì vì không muốn một người khác chịu ảnh hưởng.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 316,
+    "topic": "24. LIVE UNDER CONSTANT PRESSURE",
+    "vietnameseSentence": "Đã đạt được thành công lớn, nhiều ngôi sao thường phải sống dưới áp lực liên tục vì mọi người kỳ vọng rất nhiều ở họ.",
+    "sampleAnswer": "Having achieved huge/great success, many stars often have to live under constant pressure because people expect a lot from them.",
+    "formula": "Having + V3, S + often + V + because + S + V",
+    "hint": "Dùng phân từ hoàn thành để nói một hành động xảy ra trước hành động chính.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  },
+  {
+    "id": 317,
+    "topic": "25. LOSE THEIR PRIVACY",
+    "vietnameseSentence": "Một người càng nổi tiếng thì cuộc sống riêng tư của họ càng ít được bảo vệ.",
+    "sampleAnswer": "The more famous a person becomes",
+    "formula": "The more + adjective + S + becomes, the less + adjective + S + becomes",
+    "hint": "Dùng cấu trúc “The more…, the less…” để diễn tả hai sự thay đổi trái chiều.",
+    "sourceFile": "Translation 82",
+    "needsReview": true
+  }
+]
