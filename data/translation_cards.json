@@ -3168,5 +3168,325 @@
     "hint": "Dùng cấu trúc “The more…, the less…” để diễn tả hai sự thay đổi trái chiều.",
     "sourceFile": "Translation 82",
     "needsReview": true
+  },
+  {
+    "id": 318,
+    "topic": "1. S + be bound to + V",
+    "vietnameseSentence": "Chỉ cần bạn kiên trì, bạn chắc chắn sẽ thành công.",
+    "sampleAnswer": "As long as you remain persistent, you are bound to succeed.",
+    "formula": "GIẢI NGHĨA: Chắc chắn sẽ...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 319,
+    "topic": "2. S + be likely to + V",
+    "vietnameseSentence": "Giá nhà có khả năng tiếp tục tăng trong vài năm tới.",
+    "sampleAnswer": "House prices are likely to continue to increase over the next few years.",
+    "formula": "GIẢI NGHĨA: Có khả năng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 320,
+    "topic": "3. S + be unlikely to + V",
+    "vietnameseSentence": "Cô ấy khó có khả năng chấp nhận lời đề nghị đó.",
+    "sampleAnswer": "She is unlikely to accept that offer.",
+    "formula": "GIẢI NGHĨA: Khó có khả năng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 321,
+    "topic": "4. S + be due to + V",
+    "vietnameseSentence": "Chuyến bay dự kiến khởi hành lúc 8 giờ sáng.",
+    "sampleAnswer": "The flight is due to take off / depart at 8 a.m.",
+    "formula": "GIẢI NGHĨA: Dự kiến sẽ...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 322,
+    "topic": "6. S + be meant to + V",
+    "vietnameseSentence": "Cuốn sách này được cho là giúp người học cải thiện vốn từ.",
+    "sampleAnswer": "This book is meant to help learners improve their vocabulary (lexical resources)",
+    "formula": "GIẢI NGHĨA: Được cho là...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 323,
+    "topic": "7. S + be supposed to have + PII",
+    "vietnameseSentence": "Anh ấy đáng lẽ đã nộp báo cáo từ tuần trước.",
+    "sampleAnswer": "He is supposed to have submitted the report last week.",
+    "formula": "GIẢI NGHĨA: Đáng lẽ đã...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 324,
+    "topic": "8. S + happen to have + PII",
+    "vietnameseSentence": "Tôi tình cờ đã gặp lại người bạn cũ ở sân bay.",
+    "sampleAnswer": "I happened to have run into my old friend at the airport.",
+    "formula": "GIẢI NGHĨA: Tình cờ đã...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 325,
+    "topic": "9. S + turn out to be + Adj/N",
+    "vietnameseSentence": "Hóa ra giải pháp đó lại hiệu quả hơn chúng tôi mong đợi.",
+    "sampleAnswer": "The solution turned out to be more effective than we had expected.",
+    "formula": "GIẢI NGHĨA: Hóa ra là...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 326,
+    "topic": "10. S + prove to be + Adj/N",
+    "vietnameseSentence": "Kế hoạch mới đã chứng tỏ rất thành công.",
+    "sampleAnswer": "The new plan proved to be very successful.",
+    "formula": "GIẢI NGHĨA: Chứng tỏ là...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 327,
+    "topic": "11. S + have no choice but to + V",
+    "vietnameseSentence": "Chúng tôi không còn lựa chọn nào ngoài việc hủy sự kiện.",
+    "sampleAnswer": "We had no choice but to cancel (call off) the event.",
+    "formula": "GIẢI NGHĨA: Không còn lựa chọn nào ngoài...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 328,
+    "topic": "12. S + make an attempt to + V",
+    "vietnameseSentence": "Cô ấy đã cố gắng giải thích tình huống cho khách hàng.",
+    "sampleAnswer": "She made an attempt to explain the situation to the customers.",
+    "formula": "GIẢI NGHĨA: Cố gắng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 329,
+    "topic": "13. S + make every effort to + V",
+    "vietnameseSentence": "Mọi nhân viên đều nỗ lực hết sức để hoàn thành dự án.",
+    "sampleAnswer": "Every employee makes every effort to complete the project.",
+    "formula": "GIẢI NGHĨA: Nỗ lực hết sức...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 330,
+    "topic": "14. S + go out of one's way to + V",
+    "vietnameseSentence": "Anh ấy luôn sẵn sàng giúp đỡ đồng nghiệp.",
+    "sampleAnswer": "He always goes out of his way to help his colleagues.",
+    "formula": "GIẢI NGHĨA: Không ngại khó để...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 331,
+    "topic": "16. S + manage to avoid + V-ing",
+    "vietnameseSentence": "Cô ấy đã tránh được việc mắc cùng một lỗi.",
+    "sampleAnswer": "She managed to avoid making the same mistake.",
+    "formula": "GIẢI NGHĨA: Thành công trong việc tránh...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 332,
+    "topic": "17. S + fail to recognize + N",
+    "vietnameseSentence": "Nhiều người không nhận ra tầm quan trọng của việc nghỉ ngơi.",
+    "sampleAnswer": "Many people fail to recognize the importance of getting enough/adequate rest.",
+    "formula": "GIẢI NGHĨA: Không nhận ra...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 333,
+    "topic": "18. S + be reluctant to + V",
+    "vietnameseSentence": "Một số nhân viên miễn cưỡng làm thêm giờ.",
+    "sampleAnswer": "Some employees are reluctant to work overtime.",
+    "formula": "GIẢI NGHĨA: Miễn cưỡng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 334,
+    "topic": "19. S + be willing to + V",
+    "vietnameseSentence": "Công ty sẵn lòng hỗ trợ nhân viên mới.",
+    "sampleAnswer": "The company is willing to support new employees.",
+    "formula": "GIẢI NGHĨA: Sẵn lòng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 335,
+    "topic": "20. S + be determined to + V",
+    "vietnameseSentence": "Cô ấy quyết tâm đạt được mục tiêu của mình.",
+    "sampleAnswer": "She is determined to achieve her goal.",
+    "formula": "GIẢI NGHĨA: Quyết tâm...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 336,
+    "topic": "21. S + play a vital role in + N/V-ing",
+    "vietnameseSentence": "Giáo dục đóng vai trò thiết yếu trong sự phát triển của xã hội.",
+    "sampleAnswer": "Education plays a vital role in the development of the society.",
+    "formula": "GIẢI NGHĨA: Đóng vai trò thiết yếu...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 337,
+    "topic": "22. S + make a significant contribution to + N",
+    "vietnameseSentence": "Những tình nguyện viên đã đóng góp đáng kể cho cộng đồng.",
+    "sampleAnswer": "The volunteers made a significant contribution to the community.",
+    "formula": "GIẢI NGHĨA: Đóng góp đáng kể...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 338,
+    "topic": "23. S + have a positive impact on + N",
+    "vietnameseSentence": "Đọc sách thường xuyên có tác động tích cực đến tư duy.",
+    "sampleAnswer": "Regular reading has a positive impact on thinking skills.",
+    "formula": "GIẢI NGHĨA: Có tác động tích cực...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 339,
+    "topic": "24. S + have a negative effect on + N",
+    "vietnameseSentence": "Thiếu ngủ ảnh hưởng tiêu cực đến sức khỏe.",
+    "sampleAnswer": "Lack of sleep has a negative effect on our health.",
+    "formula": "GIẢI NGHĨA: Có ảnh hưởng tiêu cực...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 340,
+    "topic": "25. S + bring about + N",
+    "vietnameseSentence": "Công nghệ mới đã mang lại nhiều thay đổi lớn.",
+    "sampleAnswer": "Modern/new technology has brought about many major changes.",
+    "formula": "GIẢI NGHĨA: Mang lại / gây ra...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 341,
+    "topic": "26. S + give rise to + N",
+    "vietnameseSentence": "Sự hiểu lầm đó đã dẫn đến nhiều tranh cãi.",
+    "sampleAnswer": "The misunderstanding gave rise to many arguments.",
+    "formula": "GIẢI NGHĨA: Dẫn đến...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 342,
+    "topic": "27. S + pave the way for + N",
+    "vietnameseSentence": "Nghiên cứu này mở đường cho những khám phá mới.",
+    "sampleAnswer": "This research has paved the way for new discoveries.",
+    "formula": "GIẢI NGHĨA: Mở đường cho...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 343,
+    "topic": "28. S + result in + N",
+    "vietnameseSentence": "Việc thiếu kế hoạch có thể dẫn đến thất bại.",
+    "sampleAnswer": "The poor planning can result in the failure.",
+    "formula": "GIẢI NGHĨA: Dẫn đến...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 344,
+    "topic": "29. S + stem from + N",
+    "vietnameseSentence": "Phần lớn vấn đề bắt nguồn từ việc giao tiếp kém.",
+    "sampleAnswer": "Most of the problems stem from the poor communication",
+    "formula": "GIẢI NGHĨA: Bắt nguồn từ...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 345,
+    "topic": "30. S + account for + N",
+    "vietnameseSentence": "Doanh số bán hàng trực tuyến chiếm hơn một nửa tổng doanh thu.",
+    "sampleAnswer": "Online sales accounted for more than half of the company’s revenue.",
+    "formula": "GIẢI NGHĨA: Chiếm...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 346,
+    "topic": "31. S + attach importance to + N/V-ing",
+    "vietnameseSentence": "Nhiều công ty coi trọng kỹ năng giao tiếp.",
+    "sampleAnswer": "Many companies attach importance to communication skills.",
+    "formula": "GIẢI NGHĨA: Coi trọng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 347,
+    "topic": "32. S + place emphasis on + N/V-ing",
+    "vietnameseSentence": "Giáo viên nhấn mạnh việc luyện nói mỗi ngày.",
+    "sampleAnswer": "Place/lay/put emphasis on + N/V-ing",
+    "formula": "GIẢI NGHĨA: Nhấn mạnh...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 348,
+    "topic": "33. S + take ... into account",
+    "vietnameseSentence": "Bạn nên tính đến mọi rủi ro trước khi đầu tư.",
+    "sampleAnswer": "You should take all the risks into account before investing",
+    "formula": "GIẢI NGHĨA: Tính đến / xem xét kỹ lưỡng...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
+  },
+  {
+    "id": 349,
+    "topic": "34. S + keep track of + N",
+    "vietnameseSentence": "Tôi luôn theo dõi các khoản chi tiêu hàng tháng.",
+    "sampleAnswer": "I always keep track of my monthly expenses.",
+    "formula": "GIẢI NGHĨA: Theo dõi...",
+    "hint": "DỊCH:",
+    "sourceFile": "Translation 83",
+    "needsReview": true
   }
 ]
